@@ -1,0 +1,1464 @@
+<!DOCTYPE html>
+<!-- saved from url=(0028)https://masjidabubakr.co.uk/ -->
+<html lang="en-GB" class=""><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">		<title>Masjid Abu Bakr</title>
+<link rel="dns-prefetch" href="https://cdnjs.cloudflare.com/">
+<link rel="dns-prefetch" href="https://ajax.googleapis.com/">
+<link rel="dns-prefetch" href="https://js.stripe.com/">
+<link rel="dns-prefetch" href="https://checkout.stripe.com/">
+<link rel="dns-prefetch" href="https://code.jquery.com/">
+<link rel="dns-prefetch" href="https://s.w.org/">
+<link rel="alternate" type="application/rss+xml" title="Masjid Abu Bakr » Feed" href="https://masjidabubakr.co.uk/feed/">
+<link rel="alternate" type="application/rss+xml" title="Masjid Abu Bakr » Comments Feed" href="https://masjidabubakr.co.uk/comments/feed/">
+		<script>
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/masjidabubakr.co.uk\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="./Masjid Abu Bakr_files/wp-emoji-release.min.js.download" type="text/javascript" defer=""></script>
+		<style>
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="timetable-style-css" href="./Masjid Abu Bakr_files/styles.css" media="all">
+<style id="timetable-style-inline-css">
+
+                table.customStyles th.tableHeading{
+                    background:#ffffff;color:#ce932d}
+                table.customStyles th.notificationBackground{
+                    background:#f4f122;color: #8224e3}.notificationBackground{
+                    background:#f4f122;color: #8224e3}
+                table.customStyles {
+                    color:#ffffff}
+                table.customStyles tr.highlight, th.highlight, td.highlight{
+                    font-weight: bold;
+                    background:#eeeeee!important}
+</style>
+<link rel="stylesheet" id="verge-style-css" href="./Masjid Abu Bakr_files/vergestyles.css" media="all">
+<link rel="stylesheet" id="jquery-ui-css" href="./Masjid Abu Bakr_files/jquery-ui.css" media="all">
+<link rel="stylesheet" id="dpt_font_awesome-css" href="./Masjid Abu Bakr_files/font-awesome.min.css" media="all">
+<link rel="stylesheet" id="jquery_ui_css-css" href="./Masjid Abu Bakr_files/jquery-ui(1).css" media="all">
+<link rel="stylesheet" id="wp-block-library-css" href="./Masjid Abu Bakr_files/style.min.css" media="all">
+<link rel="stylesheet" id="events-manager-css" href="./Masjid Abu Bakr_files/events_manager.css" media="all">
+<link rel="stylesheet" id="give-styles-css" href="./Masjid Abu Bakr_files/give.css" media="all">
+<link rel="stylesheet" id="give_ffm_frontend_styles-css" href="./Masjid Abu Bakr_files/give-ffm-frontend.min.css" media="all">
+<link rel="stylesheet" id="give_ffm_datepicker_styles-css" href="./Masjid Abu Bakr_files/give-ffm-datepicker.min.css" media="all">
+<link rel="stylesheet" id="give-gift-aid-css" href="./Masjid Abu Bakr_files/give-gift-aid-frontend.min.css" media="all">
+<link rel="stylesheet" id="give_recurring_css-css" href="./Masjid Abu Bakr_files/give-recurring.css" media="all">
+<link rel="stylesheet" id="twentytwenty-style-css" href="./Masjid Abu Bakr_files/style.css" media="all">
+<style id="twentytwenty-style-inline-css">
+.color-accent,.color-accent-hover:hover,.color-accent-hover:focus,:root .has-accent-color,.has-drop-cap:not(:focus):first-letter,.wp-block-button.is-style-outline,a { color: #a16b1f; }blockquote,.border-color-accent,.border-color-accent-hover:hover,.border-color-accent-hover:focus { border-color: #a16b1f; }button:not(.toggle),.button,.faux-button,.wp-block-button__link,.wp-block-file .wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.bg-accent,.bg-accent-hover:hover,.bg-accent-hover:focus,:root .has-accent-background-color,.comment-reply-link { background-color: #a16b1f; }.fill-children-accent,.fill-children-accent * { fill: #a16b1f; }:root .has-background-color,button,.button,.faux-button,.wp-block-button__link,.wp-block-file__button,input[type="button"],input[type="reset"],input[type="submit"],.wp-block-button,.comment-reply-link,.has-background.has-primary-background-color:not(.has-text-color),.has-background.has-primary-background-color *:not(.has-text-color),.has-background.has-accent-background-color:not(.has-text-color),.has-background.has-accent-background-color *:not(.has-text-color) { color: #ffffff; }:root .has-background-background-color { background-color: #ffffff; }body,.entry-title a,:root .has-primary-color { color: #000000; }:root .has-primary-background-color { background-color: #000000; }cite,figcaption,.wp-caption-text,.post-meta,.entry-content .wp-block-archives li,.entry-content .wp-block-categories li,.entry-content .wp-block-latest-posts li,.wp-block-latest-comments__comment-date,.wp-block-latest-posts__post-date,.wp-block-embed figcaption,.wp-block-image figcaption,.wp-block-pullquote cite,.comment-metadata,.comment-respond .comment-notes,.comment-respond .logged-in-as,.pagination .dots,.entry-content hr:not(.has-background),hr.styled-separator,:root .has-secondary-color { color: #6d6d6d; }:root .has-secondary-background-color { background-color: #6d6d6d; }pre,fieldset,input,textarea,table,table *,hr { border-color: #dbdbdb; }caption,code,code,kbd,samp,.wp-block-table.is-style-stripes tbody tr:nth-child(odd),:root .has-subtle-background-background-color { background-color: #dbdbdb; }.wp-block-table.is-style-stripes { border-bottom-color: #dbdbdb; }.wp-block-latest-posts.is-grid li { border-top-color: #dbdbdb; }:root .has-subtle-background-color { color: #dbdbdb; }body:not(.overlay-header) .primary-menu > li > a,body:not(.overlay-header) .primary-menu > li > .icon,.modal-menu a,.footer-menu a, .footer-widgets a,#site-footer .wp-block-button.is-style-outline,.wp-block-pullquote:before,.singular:not(.overlay-header) .entry-header a,.archive-header a,.header-footer-group .color-accent,.header-footer-group .color-accent-hover:hover { color: #a16b1f; }.social-icons a,#site-footer button:not(.toggle),#site-footer .button,#site-footer .faux-button,#site-footer .wp-block-button__link,#site-footer .wp-block-file__button,#site-footer input[type="button"],#site-footer input[type="reset"],#site-footer input[type="submit"] { background-color: #a16b1f; }.social-icons a,body:not(.overlay-header) .primary-menu ul,.header-footer-group button,.header-footer-group .button,.header-footer-group .faux-button,.header-footer-group .wp-block-button:not(.is-style-outline) .wp-block-button__link,.header-footer-group .wp-block-file__button,.header-footer-group input[type="button"],.header-footer-group input[type="reset"],.header-footer-group input[type="submit"] { color: #ffffff; }#site-header,.footer-nav-widgets-wrapper,#site-footer,.menu-modal,.menu-modal-inner,.search-modal-inner,.archive-header,.singular .entry-header,.singular .featured-media:before,.wp-block-pullquote:before { background-color: #ffffff; }.header-footer-group,body:not(.overlay-header) #site-header .toggle,.menu-modal .toggle { color: #000000; }body:not(.overlay-header) .primary-menu ul { background-color: #000000; }body:not(.overlay-header) .primary-menu > li > ul:after { border-bottom-color: #000000; }body:not(.overlay-header) .primary-menu ul ul:after { border-left-color: #000000; }.site-description,body:not(.overlay-header) .toggle-inner .toggle-text,.widget .post-date,.widget .rss-date,.widget_archive li,.widget_categories li,.widget cite,.widget_pages li,.widget_meta li,.widget_nav_menu li,.powered-by-wordpress,.to-the-top,.singular .entry-header .post-meta,.singular:not(.overlay-header) .entry-header .post-meta a { color: #6d6d6d; }.header-footer-group pre,.header-footer-group fieldset,.header-footer-group input,.header-footer-group textarea,.header-footer-group table,.header-footer-group table *,.footer-nav-widgets-wrapper,#site-footer,.menu-modal nav *,.footer-widgets-outer-wrapper,.footer-top { border-color: #dbdbdb; }.header-footer-group table caption,body:not(.overlay-header) .header-inner .toggle-wrapper::before { background-color: #dbdbdb; }
+</style>
+<link rel="stylesheet" id="twentytwenty-print-style-css" href="./Masjid Abu Bakr_files/print.css" media="print">
+<link rel="stylesheet" id="elementor-icons-css" href="./Masjid Abu Bakr_files/elementor-icons.min.css" media="all">
+<link rel="stylesheet" id="elementor-animations-css" href="./Masjid Abu Bakr_files/animations.min.css" media="all">
+<link rel="stylesheet" id="elementor-frontend-css" href="./Masjid Abu Bakr_files/frontend.min.css" media="all">
+<link rel="stylesheet" id="elementor-pro-css" href="./Masjid Abu Bakr_files/frontend.min(1).css" media="all">
+<link rel="stylesheet" id="elementor-global-css" href="./Masjid Abu Bakr_files/global.css" media="all">
+<link rel="stylesheet" id="elementor-post-39-css" href="./Masjid Abu Bakr_files/post-39.css" media="all">
+<link rel="stylesheet" id="elementor-post-95-css" href="./Masjid Abu Bakr_files/post-95.css" media="all">
+<link rel="stylesheet" id="elementor-post-218-css" href="./Masjid Abu Bakr_files/post-218.css" media="all">
+<link rel="stylesheet" id="google-fonts-1-css" href="./Masjid Abu Bakr_files/css" media="all">
+<link rel="stylesheet" id="elementor-icons-shared-0-css" href="./Masjid Abu Bakr_files/fontawesome.min.css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-solid-css" href="./Masjid Abu Bakr_files/solid.min.css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-regular-css" href="./Masjid Abu Bakr_files/regular.min.css" media="all">
+<link rel="stylesheet" id="elementor-icons-fa-brands-css" href="./Masjid Abu Bakr_files/brands.min.css" media="all">
+<script src="./Masjid Abu Bakr_files/jquery.js.download"></script>
+<script src="./Masjid Abu Bakr_files/jquery-migrate.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/popper.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/core.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/widget.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/mouse.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/resizable.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/draggable.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/button.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/position.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/dialog.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/jquery-ui.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/jquery.cookie.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/jquery.blockUI.js.download"></script>
+<script src="./Masjid Abu Bakr_files/datepicker.min.js.download"></script>
+<script>
+jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"d MM yy","firstDay":1,"isRTL":false});});
+</script>
+<script src="./Masjid Abu Bakr_files/slider.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/moxie.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/plupload.min.js.download"></script>
+<script>
+var pluploadL10n = {"queue_limit_exceeded":"You have attempted to queue too many files.","file_exceeds_size_limit":"%s exceeds the maximum upload size for this site.","zero_byte_file":"This file is empty. Please try another.","invalid_filetype":"Sorry, this file type is not permitted for security reasons.","not_an_image":"This file is not an image. Please try another.","image_memory_exceeded":"Memory exceeded. Please try another smaller file.","image_dimensions_exceeded":"This is larger than the maximum size. Please try another.","default_error":"An error occurred in the upload. Please try again later.","missing_upload_url":"There was a configuration error. Please contact the server administrator.","upload_limit_exceeded":"You may only upload one file.","http_error":"Unexpected response from the server. The file may have been uploaded successfully. Check in the Media Library or reload the page.","http_error_image":"Post-processing of the image likely failed because the server is busy or does not have enough resources. Uploading a smaller image may help. Suggested maximum size is 2500 pixels.","upload_failed":"Upload failed.","big_upload_failed":"Please try uploading this file with the %1$sbrowser uploader%2$s.","big_upload_queued":"%s exceeds the maximum upload size for the multi-file uploader when used in your browser.","io_error":"IO error.","security_error":"Security error.","file_cancelled":"File cancelled.","upload_stopped":"Upload stopped.","dismiss":"Dismiss","crunching":"Crunching\u2026","deleted":"moved to the Bin.","error_uploading":"\u201c%s\u201d has failed to upload."};
+</script>
+<script src="./Masjid Abu Bakr_files/handlers.min.js.download"></script>
+<script>
+var give_ffm_frontend = {"ajaxurl":"https:\/\/masjidabubakr.co.uk\/wp-admin\/admin-ajax.php","error_message":"Please complete all required fields","submit_button_text":"Donate Now","nonce":"4c2f476143","confirmMsg":"Are you sure?","i18n":{"timepicker":{"choose_time":"Choose Time","time":"Time","hour":"Hour","minute":"Minute","second":"Second","done":"Done","now":"Now"},"repeater":{"max_rows":"You have added the maximum number of fields allowed."}},"plupload":{"url":"https:\/\/masjidabubakr.co.uk\/wp-admin\/admin-ajax.php?nonce=4e00fdeb94","flash_swf_url":"https:\/\/masjidabubakr.co.uk\/wp-includes\/js\/plupload\/plupload.flash.swf","filters":[{"title":"Allowed Files","extensions":"*"}],"multipart":true,"urlstream_upload":true}};
+</script>
+<script src="./Masjid Abu Bakr_files/give-ffm-frontend.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/sortable.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/menu.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/wp-polyfill.min.js.download"></script>
+<script>
+( 'fetch' in window ) || document.write( '<script src="https://masjidabubakr.co.uk/wp-includes/js/dist/vendor/wp-polyfill-fetch.min.js?ver=3.0.0"></scr' + 'ipt>' );( document.contains ) || document.write( '<script src="https://masjidabubakr.co.uk/wp-includes/js/dist/vendor/wp-polyfill-node-contains.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.DOMRect ) || document.write( '<script src="https://masjidabubakr.co.uk/wp-includes/js/dist/vendor/wp-polyfill-dom-rect.min.js?ver=3.42.0"></scr' + 'ipt>' );( window.URL && window.URL.prototype && window.URLSearchParams ) || document.write( '<script src="https://masjidabubakr.co.uk/wp-includes/js/dist/vendor/wp-polyfill-url.min.js?ver=3.6.4"></scr' + 'ipt>' );( window.FormData && window.FormData.prototype.keys ) || document.write( '<script src="https://masjidabubakr.co.uk/wp-includes/js/dist/vendor/wp-polyfill-formdata.min.js?ver=3.0.12"></scr' + 'ipt>' );( Element.prototype.matches && Element.prototype.closest ) || document.write( '<script src="https://masjidabubakr.co.uk/wp-includes/js/dist/vendor/wp-polyfill-element-closest.min.js?ver=2.0.2"></scr' + 'ipt>' );
+</script>
+<script src="./Masjid Abu Bakr_files/dom-ready.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/a11y.min.js.download"></script>
+<script>
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+</script>
+<script src="./Masjid Abu Bakr_files/autocomplete.min.js.download"></script>
+<script>
+var EM = {"ajaxurl":"https:\/\/masjidabubakr.co.uk\/wp-admin\/admin-ajax.php","locationajaxurl":"https:\/\/masjidabubakr.co.uk\/wp-admin\/admin-ajax.php?action=locations_search","firstDay":"1","locale":"en","dateFormat":"dd\/mm\/yy","ui_css":"https:\/\/masjidabubakr.co.uk\/wp-content\/plugins\/events-manager\/includes\/css\/jquery-ui.min.css","show24hours":"","is_ssl":"1","bookingInProgress":"Please wait while the booking is being submitted.","tickets_save":"Save Ticket","bookingajaxurl":"https:\/\/masjidabubakr.co.uk\/wp-admin\/admin-ajax.php","bookings_export_save":"Export Bookings","bookings_settings_save":"Save Settings","booking_delete":"Are you sure you want to delete?","booking_offset":"30","bb_full":"Sold Out","bb_book":"Book Now","bb_booking":"Booking...","bb_booked":"Booking Submitted","bb_error":"Booking Error. Try again?","bb_cancel":"Cancel","bb_canceling":"Canceling...","bb_cancelled":"Cancelled","bb_cancel_error":"Cancellation Error. Try again?","txt_search":"Search","txt_searching":"Searching...","txt_loading":"Loading...","event_detach_warning":"Are you sure you want to detach this event? By doing so, this event will be independent of the recurring set of events.","delete_recurrence_warning":"Are you sure you want to delete all recurrences of this event? All events will be moved to trash.","disable_bookings_warning":"Are you sure you want to disable bookings? If you do this and save, you will lose all previous bookings. If you wish to prevent further bookings, reduce the number of spaces available to the amount of bookings you currently have","booking_warning_cancel":"Are you sure you want to cancel your booking?"};
+</script>
+<script src="./Masjid Abu Bakr_files/events-manager.js.download"></script>
+<script>
+var give_stripe_vars = {"zero_based_currency":"","zero_based_currencies_list":["JPY","KRW","CLP","ISK","BIF","DJF","GNF","KHR","KPW","LAK","LKR","MGA","MZN","VUV"],"sitename":"Masjid Abu Bakr","publishable_key":"pk_live_SMtnnvlq4TpJelMdklNha8iD","checkout_image":"","checkout_address":"","checkout_processing_text":"Donation Processing...","zipcode_option":"1","remember_option":"1","give_version":"2.6.2","cc_fields_format":"multi","card_number_placeholder_text":"Card Number","card_cvc_placeholder_text":"CVC","donate_button_text":"Donate Now","element_font_styles":{"cssSrc":false},"element_base_styles":{"color":"#32325D","fontWeight":500,"fontSize":"16px","fontSmoothing":"antialiased","::placeholder":{"color":"#222222"},":-webkit-autofill":{"color":"#e39f48"}},"element_complete_styles":{},"element_empty_styles":{},"element_invalid_styles":{},"float_labels":"","base_country":"GB","stripe_card_update":"","stripe_account_id":"acct_1GXP2DBXIBXQmAum","preferred_locale":"en"};
+</script>
+<script src="./Masjid Abu Bakr_files/saved_resource"></script>
+<script src="./Masjid Abu Bakr_files/checkout.js.download"></script>
+<script>
+var give_global_vars = {"ajaxurl":"https:\/\/masjidabubakr.co.uk\/wp-admin\/admin-ajax.php","checkout_nonce":"3d53636f09","currency":"GBP","currency_sign":"\u00a3","currency_pos":"before","thousands_separator":",","decimal_separator":".","no_gateway":"Please select a payment method.","bad_minimum":"The minimum custom donation amount for this form is","bad_maximum":"The maximum custom donation amount for this form is","general_loading":"Loading...","purchase_loading":"Please Wait...","number_decimals":"2","give_version":"2.6.2","magnific_options":{"main_class":"give-modal","close_on_bg_click":false},"form_translation":{"payment-mode":"Please select payment mode.","give_first":"Please enter your first name.","give_email":"Please enter a valid email address.","give_user_login":"Invalid email address or username.","give_user_pass":"Enter a password.","give_user_pass_confirm":"Enter the password confirmation.","give_agree_to_terms":"You must agree to the terms and conditions."},"confirm_email_sent_message":"Please check your email and click on the link to access your complete donation history.","ajax_vars":{"ajaxurl":"https:\/\/masjidabubakr.co.uk\/wp-admin\/admin-ajax.php","ajaxNonce":"b04f6def77","loading":"Loading","select_option":"Please select an option","default_gateway":"stripe","permalinks":"1","number_decimals":2},"cookie_hash":"2334d1740e3ede332df03ee67deb7c5f","session_nonce_cookie_name":"wp-give_session_reset_nonce_2334d1740e3ede332df03ee67deb7c5f","session_cookie_name":"wp-give_session_2334d1740e3ede332df03ee67deb7c5f","delete_session_nonce_cookie":"0"};
+var giveApiSettings = {"root":"https:\/\/masjidabubakr.co.uk\/wp-json\/give-api\/v2\/","rest_base":"give-api\/v2"};
+</script>
+<script src="./Masjid Abu Bakr_files/give.js.download"></script>
+<script>
+var give_stripe_vars = {"zero_based_currency":"","zero_based_currencies_list":["JPY","KRW","CLP","ISK","BIF","DJF","GNF","KHR","KPW","LAK","LKR","MGA","MZN","VUV"],"sitename":"Masjid Abu Bakr","publishable_key":"pk_live_SMtnnvlq4TpJelMdklNha8iD","checkout_image":"","checkout_address":"","checkout_processing_text":"Donation Processing...","zipcode_option":"1","remember_option":"1","give_version":"2.6.2","cc_fields_format":"multi","card_number_placeholder_text":"Card Number","card_cvc_placeholder_text":"CVC","donate_button_text":"Donate Now","element_font_styles":{"cssSrc":false},"element_base_styles":{"color":"#32325D","fontWeight":500,"fontSize":"16px","fontSmoothing":"antialiased","::placeholder":{"color":"#222222"},":-webkit-autofill":{"color":"#e39f48"}},"element_complete_styles":{},"element_empty_styles":{},"element_invalid_styles":{},"float_labels":"","base_country":"GB","stripe_card_update":"","stripe_account_id":"acct_1GXP2DBXIBXQmAum","preferred_locale":"en"};
+</script>
+<script src="./Masjid Abu Bakr_files/give-stripe-checkout.js.download"></script>
+<script src="./Masjid Abu Bakr_files/give-stripe.js.download"></script>
+<script src="./Masjid Abu Bakr_files/babel-polyfill.js.download"></script>
+<script>
+var give_gift_aid_vars = {"gift_aid_site_url":"https:\/\/masjidabubakr.co.uk","gift_aid_base_country":"GB"};
+</script>
+<script src="./Masjid Abu Bakr_files/give-gift-aid-frontend.min.js.download"></script>
+<script>
+var Give_Recurring_Vars = {"email_access":"1","pretty_intervals":{"1":"Every","2":"Every two","3":"Every three","4":"Every four","5":"Every five","6":"Every six"},"pretty_periods":{"day":"Daily","week":"Weekly","month":"Monthly","quarter":"Quarterly","half-year":"Semi-Annually","year":"Yearly"},"messages":{"daily_forbidden":"The selected payment method does not support daily recurring giving. Please select another payment method or supported giving frequency.","confirm_cancel":"Are you sure you want to cancel this subscription?"},"multi_level_message_pre_text":"You have chosen to donate"};
+</script>
+<script src="./Masjid Abu Bakr_files/give-recurring.js.download"></script>
+<script src="./Masjid Abu Bakr_files/index.js.download" async=""></script>
+<link rel="https://api.w.org/" href="https://masjidabubakr.co.uk/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://masjidabubakr.co.uk/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://masjidabubakr.co.uk/wp-includes/wlwmanifest.xml"> 
+<meta name="generator" content="WordPress 5.4">
+<link rel="canonical" href="https://masjidabubakr.co.uk/">
+<link rel="shortlink" href="https://masjidabubakr.co.uk/">
+<link rel="alternate" type="application/json+oembed" href="https://masjidabubakr.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmasjidabubakr.co.uk%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://masjidabubakr.co.uk/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmasjidabubakr.co.uk%2F&amp;format=xml">
+<meta name="generator" content="Give v2.6.2">
+	<script>document.documentElement.className = document.documentElement.className.replace( 'no-js', 'js' );</script>
+	<style id="custom-background-css">
+body.custom-background { background-color: #ffffff; }
+</style>
+	<link rel="icon" href="https://masjidabubakr.co.uk/wp-content/uploads/2020/04/cropped-12logo45-32x32.png" sizes="32x32">
+<link rel="icon" href="https://masjidabubakr.co.uk/wp-content/uploads/2020/04/cropped-12logo45-192x192.png" sizes="192x192">
+<link rel="apple-touch-icon" href="https://masjidabubakr.co.uk/wp-content/uploads/2020/04/cropped-12logo45-180x180.png">
+<meta name="msapplication-TileImage" content="https://masjidabubakr.co.uk/wp-content/uploads/2020/04/cropped-12logo45-270x270.png">
+		<style id="wp-custom-css">
+			#site-header {
+    z-index: 999;
+}
+div#give-card-name-wrap input#card_name {
+    line-height: 1;
+    padding: 2px 6px;
+}
+.give-gift-aid-long-explanation-content p {
+    font-size: 14px;
+}
+p#give-title-wrap select#give-title {
+    padding: 15px 8px;
+}
+div#give-gift-aid-checkbox-label-wrap-5984 input {
+    width: 16px !important;
+    display: inline-block !important;
+    position: relative;
+    top: -7px;
+}
+
+.give-gift-aid-long-explanation-content h1 {
+    font-size: 22px;
+}
+.pdf-item1245 iframe {
+    margin: 0 auto;
+}
+.Subscribe-112412 button.yikes-easy-mc-submit-button.yikes-easy-mc-submit-button-1 {
+    background: #ce962f;
+}
+.single-event #site-content {
+    overflow: hidden;
+    max-width: 1200px;
+    margin: 58px auto;
+}
+table.dptTimetable th.highlight, tr.highlight, td.highlight {
+
+    color: #ce962f !important;
+}
+div#give_purchase_form_wrap label sup {
+    font-size: 0;
+}
+/*
+div#give_show_terms:after {
+    content: "If you are a UK taxpayer your donation could be worth £6.25  at no extra cost to you.";
+    margin-top: 34px;
+    display: block;
+}
+div#give_show_terms:before {
+    content: "";
+    width: 164px;
+    height: 64px;
+    display: block;
+    background: url(http://tarasaka.in/masjidabubakr-new/wp-content/uploads/2020/04/t.jpg);
+    position: relative;
+    left: -62px;
+    transform: translate3d(10px, 10px, 10px);
+}
+*/
+div#give-gift-aid-long-explanation-content-5984 h1 {
+    margin-top: 11px;
+}
+div#contribution_for-wrap h5 {
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+div#via_email-wrap label.give-label {
+    display: none;
+}
+.yikes-easy-mc-success-message {
+
+    font-size: 14px;
+}
+.Subscribe-112412 input#yikes-easy-mc-form-1-EMAIL {
+    padding: 0 5px;
+    margin-bottom: 0;
+}
+.dailytable_vertical_12 .dptScNextPrayer {
+    display: none !important;
+}
+.dailytable_vertical_12 th {
+    border: 0 !important;
+}
+.dailytable_vertical_12 tr, .dailytable_vertical_12 th {
+    text-align: left !important;
+}
+table.dptTimetable tr:hover {
+    color: #935d1a;
+}
+table.dptTimetable tr, table.dptTimetable td, table.dptTimetable th {
+    border: 1px solid white;
+    font-weight: 700;
+}
+
+.dailytable_vertical_12 .elementor-widget-container {
+    width: 90%;
+    margin: 0 auto !important;
+    float: none;
+    left: 0;
+    right: 0;
+}
+.dailytable_vertical_12 tr, .dailytable_vertical_12 th {
+    text-align: left !important;
+    font-weight: 600;
+}
+.dailytable_vertical_12  table.dptTimetable {
+    border: 0 !important;
+}
+
+.dailytable_vertical_12  table.dptTimetable tr td {
+    text-align: left;
+
+}
+
+input#give_agree_to_terms-5798 {
+    position: relative;
+    top: 39px;
+    left: -17px;
+}
+
+
+@media (max-width:920px) {
+div#give_purchase_form_wrap label sup:before {
+top: -22px;
+    left: -15px;
+ 
+}
+	div#give_show_terms:before {
+   
+    left: 0;
+   
+}
+	
+}
+
+
+
+@media (max-width:600px) {
+
+
+	
+}
+
+
+
+
+		</style>
+		<style type="text/css">:root script[src^="http://free-shoutbox.net/app/webroot/shoutbox/sb.php?shoutbox="] + #freeshoutbox_content, :root input[onclick^="window.open('http://www.friendlyduck.com/"], :root input[onclick^="window.open('http://www.FriendlyDuck.com/"], :root iframe[src^="http://static.mozo.com.au/strips/"], :root iframe[name^="google_ads_iframe"], :root iframe[id^="google_ads_iframe"], :root div[role="navigation"] + c-wiz > div > .kxhcC, :root div[jscontroller="U835zd"] + c-wiz[jsrenderer="YnuqN"], :root div[itemtype="http://www.schema.org/WPAdBlock"], :root div[id^="zergnet-widget"], :root div[id^="yandex_ad"], :root div[id^="tms-ad-dfp-"], :root div[id^="q1-adset-"], :root div[id^="mainads"], :root div[id^="google_dfp_"], :root div[id^="google_ads_iframe_"], :root div[id^="dmRosAdWrapper"], :root div[id^="div_openx_ad_"], :root div[id^="div-adtech-ad-"], :root div[id^="div-ads-"], :root div[id^="dfp-ad-"], :root div[id^="crt-"][style], :root div[id^="cns_ads_"], :root div[id^="block-views-topheader-ad-block-"], :root div[id^="advt-"], :root div[id^="adspot-"], :root div[itemtype="http://schema.org/WPAdBlock"], :root div[id^="ads300_600-widget"], :root div[id^="ads300_100-widget"], :root div[id^="ads250_250-widget"], :root div[id^="adrotate_widgets-"], :root div[id^="ad_script_"], :root div[id^="ad_rect_"], :root div[id^="ad_position_"], :root div[id^="ad_head_celtra_"], :root div[id^="ad_bigbox_"], :root div[id^="ad-position-"], :root div[id^="ad-div-"], :root div[data-role="sidebarAd"], :root div[data-id-advertdfpconf], :root div[data-flt-ve="sponsored_search_ads"], :root #center_col > #taw > #tvcap > .rscontainer, :root div[data-adunit], :root div[data-adunit-path], :root .__yinit .__y_item, :root div[class^="local-feed-banner-ads"], :root div[class^="largeRectangleAd_"], :root a[href^="http://www.123-reg.co.uk/affiliate2.cgi"], :root div[class^="index_adBeforeContent_"], :root a[href^="http://www.paddypower.com/?AFF_ID="], :root div[class^="block-openx-"], :root div[id^="lazyad-"], :root #rhs_block > ol > .rhsvw > .kp-blk > .xpdopen > ._OKe > ol > ._DJe > .luhb-div, :root div[class^="advertisement-desktop"], :root div[class^="SponsoredAds"], :root a[href^="http://bodelen.com/"], :root a[href*=".fwd28.com/"], :root div[class^="Display_displayAd"], :root a[href^="http://www.fbooksluts.com/"], :root div[class^="Directory__footerAds"], :root a[href^="http://dethao.com/"], :root div[class^="BlockAdvert-"], :root a[href^="https://a.bestcontentpc.top/"], :root div[class*="-storyBodyAd-"], :root div[class$="dealnews"] > .dealnews, :root aside[itemtype="https://schema.org/WPAdBlock"], :root a[href^="http://bestorican.com/"], :root aside[id^="tn_ads_widget-"], :root aside[id^="div-gpt-ad"], :root a[href*=".orange2258.com/"], :root aside[id^="adrotate_widgets-"], :root amp-ad-custom, :root a[target="_blank"][onmousedown="this.href^='http://paid.outbrain.com/network/redir?"], :root a[onmousedown^="this.href='http://staffpicks.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[href^="http://affiliates.score-affiliates.com/"], :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root ad-desktop-sidebar, :root a[onclick*="//m.economictimes.com/etmack/click.htm"], :root a[href^="https://go.ad2up.com/"], :root a[href^="https://zononi.com/"], :root a[href^="https://www.what-sexdating.com/"], :root a[href^="https://www.travelzoo.com/oascampaignclick/"], :root a[href^="https://www.popads.net/users/"], :root a[href^="https://www.passeura.com/"], :root a[href^="https://www.oboom.com/ref/"], :root div[id^="div-gpt-ad"], :root a[href^="https://www.moscarossa.biz/"], :root DFP-AD, :root a[href^="https://www.incredimail.com/?id"], :root a[href^="https://www.iclwy.xyz/"], :root a[href^="https://freeadult.games/"], :root a[href^="https://www.hotgirls4fuck.com/"], :root .mw > #rcnt > #center_col > #taw > #tvcap > .c, :root a[href^="https://www.googleadservices.com/pagead/aclk?"], :root a[href^="http://servicegetbook.net/"], :root a[href^="https://dediseedbox.com/clients/aff.php?"], :root a[href^="https://www.get-express-vpn.com/offer/"], :root a[href^="https://www.financeads.net/tc.php?"], :root a[href^="http://click.plista.com/pets"], :root a[href^="https://www.dsct1.com/"], :root a[href^="https://www.clicktraceclick.com/"], :root a[href^="https://www.camyou.com/?cam="][href*="&track="], :root a[href^="https://www.camsoda.com/enter.php?id="], :root a[href^="https://k2s.cc/pr/"], :root a[href^="https://www.brazzersnetwork.com/landing/"], :root a[href^="http://at.atwola.com/"], :root a[href^="https://www.bebi.com"], :root a[href^="http://tezfiles.com/pr/"], :root a[href^="https://www.adultempire.com/"][href*="?partner_id="], :root a[href^="https://www.adskeeper.co.uk/"], :root a[href^="https://windscribe.com/promo/"], :root a[href^="https://watchmygirlfriend.tv/"], :root a[href^="https://vod09197d7.club/"], :root a[href^="https://uncensored3d.com/"], :root a[href^="https://trust.zone/go/r.php?RID="], :root a[href^="https://trklvs.com/"], :root a[href^="http://www.socialsex.com/"], :root a[href^="https://track.ultravpn.com/"], :root a[href^="https://track.trkinator.com/"], :root div[class^="awpcp-random-ads"], :root a[href^="https://www.securegfm.com/"], :root a[href^="https://track.healthtrader.com/"], :root a[href^="https://track.afftck.com/"], :root a[href^="http://api.content.ad/"], :root a[href*=".adform.net/"], :root a[href^="https://tour.mrskin.com/"], :root a[href^="https://torguard.net/aff.php"] > img, :root a[href^="http://mo8mwxi1.com/"], :root a[href^="https://tc.tradetracker.net/"] > img, :root a[href^="http://www.firstload.de/affiliate/"], :root a[href^="http://6kup12tgxx.com/"], :root a[href^="https://t.hrtye.com/"], :root a[href^="http://secure.signup-way.com/"], :root a[href^="https://syndication.exoclick.com/splash.php?"], :root a[href^="https://servedbyadbutler.com/"], :root div[class^="Ad__bigBox"], :root a[href*="/adServe/banners?"], :root a[href^="https://secure.bstlnk.com/"], :root a[href*="delivery.trafficfabrik.com"], :root a[href^="http://bc.vc/?r="], :root a[href^="https://retiremely.com/"], :root a[href^="http://tc.tradetracker.net/"] > img, :root a[href^="https://redirect.ero-advertising.com/"], :root a[href^="https://pubads.g.doubleclick.net/"], :root div[class^="ad_position_"], :root a[href^="https://prf.hn/click/"][href*="/adref:"], :root a[href^="https://porngames.adult/?SID="], :root a[href^="https://offerforge.net/"], :root a[href^="https://www.nudeidols.com/cams/"], :root a[href^="http://www.uniblue.com/cm/"], :root a[href^="https://lingthatsparleso.info/"], :root a[href^="https://mk-cdn.net/"], :root a[href^="http://www.gamebookers.com/cgi-bin/intro.cgi?"], :root a[href^="https://mk-ads.com/"], :root a[href^="http://bcntrack.com/"], :root .gbfwa > div[class$="_item"], :root a[href^="https://www.im88trk.com/"], :root a[href^="http://track.adform.net/"], :root a[href^="https://medleyads.com/"], :root a[href^="https://mcdlks.com/"], :root a[href^="https://www.goldenfrog.com/vyprvpn?offer_id="][href*="&aff_id="], :root a[href^="https://landing.brazzersnetwork.com/"], :root a[href^="https://land.rk.com/landing/"], :root a[href^="https://jmp.awempire.com/"], :root .GPMV2XEDA2 > .GPMV2XEDP1 > .GPMV2XEDJBB, :root div[class^="backfill-taboola-home-slot-"], :root a[href^="https://incisivetrk.cvtr.io/click?"], :root div[class^="Ad__adContainer"], :root a[href^="https://ilovemyfreedoms.com/"][href*="?affiliate_id="], :root a[href^="http://wopertific.info/"], :root a[href^="https://iactrivago.ampxdirect.com/"], :root div[class^="hp-ad-rect-"], :root a[href^="https://go.trkclick2.com/"], :root a[href^="https://go.stripchat.com/"][href*="&campaignId="], :root a[href^="https://go.onclasrv.com/"], :root a[href^="http://trk.mdrtrck.com/"], :root a[href^="https://googleads.g.doubleclick.net/pcs/click"], :root a[href^="https://farm.plista.com/pets"], :root a[href^="https://easygamepromo.com/ef/custom_affiliate/"], :root a[href^="https://dltags.com/"], :root a[href^="https://clickadilla.com/"], :root a[href^="https://chaturbate.com/affiliates/"], :root AD-TRIPLE-BOX, :root a[href^="https://bs.serving-sys.com"], :root a[href^="https://blackorange.go2cloud.org/"], :root a[onmousedown^="this.href='/wp-content/embed-ad-content/"], :root .GB3L-QEDGY .GB3L-QEDF- > .GB3L-QEDE-, :root a[href^="http://www.drowle.com/"], :root a[href^="https://chaturbate.jjgirls.com/"][href*="?tour="], :root a[href^="https://betway.com/"][href*="&a="], :root div[id^="ADV-SLOT-"], :root a[href^="https://badoinkvr.com/"], :root a[href^="https://awejmp.com/"], :root a[href^="http://syndication.exoclick.com/"], :root a[href^="https://awecrptjmp.com/"], :root a[href^="https://adultfriendfinder.com/go/page/landing"], :root div[data-spotim-slot], :root a[href^="https://adsrv4k.com/"], :root a[href^="https://is.ltroute.com/"], :root a[href^="https://adserver.adreactor.com/"], :root a[href^="https://keep2share.cc/pr/"], :root a[href^="https://adclick.g.doubleclick.net/"], :root a[href^="https://ads.trafficpoizon.com/"], :root a[href^="https://ads.ad4game.com/"], :root a[href^="http://ads.affbuzzads.com/"], :root a[href^="https://m.do.co/c/"] > img, :root a[href^="http://record.betsafe.com/"], :root a[href^="https://awentw.com/"], :root a[href^="https://landing1.brazzersnetwork.com"], :root a[href^="https://ad13.adfarm1.adition.com/"], :root a[href^="https://ad.doubleclick.net/"], :root a[href^="https://aaucwbe.com/"], :root a[href^="https://secure.cbdpure.com/aff/"], :root a[href^="https://a.adtng.com/"], :root a[href^="http://adexprt.me/"], :root a[href^="https://8a1ccf65f2b1302.com/"], :root a[href^="http://zevera.com/afi.html"], :root a[href^="http://yads.zedo.com/"], :root .inlineNewsletterSubscription + .inlineNewsletterSubscription div[class$="_item"], :root a[href^="http://xtgem.com/click?"], :root a[href^="http://wxdownloadmanager.com/dl/"], :root a[href^="https://content.oneindia.com/www/delivery/"], :root a[href^="http://www.yourfuckbook.com/?"], :root a[href^="http://www.zergnet.com/i/"], :root div[class^="proadszone-"], :root a[href^="http://www.xmediaserve.com/"], :root div[class^="AdEmbeded__AddWrapper"], :root a[href^="http://www.usearchmedia.com/signup?"], :root a[href^="http://adf.ly/?id="], :root a[href^="http://www.urmediazone.com/signup"], :root a[href^="https://affiliates.bet-at-home.com/processing/"], :root a[href^="http://ad.au.doubleclick.net/"], :root a[href^="http://www.torntv-downloader.com/"], :root .ra[align="right"][width="30%"], :root a[href^="http://www.tirerack.com/affiliates/"], :root a[href^="http://www.text-link-ads.com/"], :root a[href^="https://track.clickmoi.xyz/"], :root div[data-native_ad], :root a[href^="http://vo2.qrlsx.com/"], :root a[href^="http://www.terraclicks.com/"], :root a[href^="http://www.streamtunerhd.com/signup?"], :root a[href^="//srv.buysellads.com/"], :root a[href^="https://deliver.ptgncdn.com/"], :root a[href^="//oardilin.com/"], :root a[href^="http://www.streamate.com/exports/"], :root a[target="_blank"][href^="http://api.taboola.com/"], :root a[href^="http://www.sfippa.com/"], :root a[href^="https://www.oboom.com/ad/"], :root a[href^="http://ad-apac.doubleclick.net/"], :root a[href^="http://www1.clickdownloader.com/"], :root .mod > ._jH + .rscontainer, :root #center_col > #main > .dfrd > .mnr-c > .c._oc._zs, :root a[href^="http://www.sex.com/videos/?utm_"], :root a[href^="http://www.sex.com/pics/?utm_"], :root a[href^="http://c.ketads.com/"], :root a[href^="http://duckcash.eu/"], :root a[href^="http://www.sex.com/?utm_"], :root a[href^="http://server.cpmstar.com/click.aspx?poolid="], :root a[href^="http://www.securegfm.com/"], :root #rhs_block .mod > .gws-local-hotels__booking-module, :root a[href^="http://www.roboform.com/php/land.php"], :root a[href^="http://www.richducks.com/"], :root a[href^="https://www.friendlyduck.com/AF_"], :root a[href^="https://squren.com/rotator/?atomid="], :root a[href^="http://www.revenuehits.com/"], :root a[href^="http://www.coiwqe.site/"], :root a[href^="http://www.plus500.com/?id="], :root a[href^="http://go.mobisla.com/"], :root .trc_rbox_div .syndicatedItem, :root a[href^="https://secure.adnxs.com/clktrb?"], :root a[href^="http://www.pinkvisualpad.com/?revid="], :root a[href^="https://members.linkifier.com/public/affiliateLanding?refCode="], :root a[href^="http://www.pinkvisualgames.com/?revid="], :root aside[id^="advads_ad_widget-"], :root a[href^="https://topoffers.com/"][href*="/?pid="], :root a[href^="http://www.on2url.com/app/adtrack.asp"], :root a[href^="http://www.myvpn.pro/"], :root a[href^="http://www.myfreecams.com/?co_id="][href*="&track="], :root a[href^="http://www.my-dirty-hobby.com/?sub="], :root iframe[src*="mellowads.com"], :root a[href^="http://callville.xyz/"], :root a[href^="http://www.seekbang.com/cs/"], :root a[href^="http://bs.serving-sys.com/"], :root a[href^="http://www.menaon.com/installs/"], :root a[href^="http://adtransfer.net/"], :root a[href^="https://www.spyoff.com/"], :root a[href^="http://www.linkbucks.com/referral/"], :root a[href^="http://www.incredimail.com/?id="], :root a[href^="http://onclickads.net/"], :root a[href^="http://www.incredimail.com/?id"], :root a[href^="http://www.ragazzeinvendita.com/?rcid="], :root a[href^="http://www.graboid.com/affiliates/"], :root #cnt #center_col > #res > #topstuff > .ts, :root a[href^="http://www.getyourguide.com/?partner_id="], :root a[href^="http://www.friendlyduck.com/AF_"], :root a[href^="http://www.friendlyadvertisements.com/"], :root a[href^="http://www.fpcTraffic2.com/blind/in.cgi?"], :root a[href^="http://www.fleshlight.com/"], :root a[href^="http://www.flashx.tv/downloadthis"], :root a[href^="http://www.firstload.com/affiliate/"], :root a[style="display:block;width:300px;min-height:250px"][href^="http://li.cnet.com/click?"], :root #MAIN.ShowTopic > .ad, :root a[href^="http://www.ducksnetwork.com/"], :root a[href^="https://click.plista.com/pets"], :root a[href*=".approvallamp.club/"], :root a[href^="http://www.downloadweb.org/"], :root div[class^="gemini-ad"], :root a[href^="http://secure.cbdpure.com/aff/"], :root a[href^="https://trafficmedia.center/"], :root a[href^="http://www.downloadthesefiles.com/"], :root a[href^="http://www.downloadplayer1.com/"], :root a[href*=".ichlnk.com/"], :root a[href^="http://www.myfreepaysite.com/sfw_int.php?aid"], :root a[href^="http://www.dealcent.com/register.php?affid="], :root a[href^="http://reallygoodlink.extremefreegames.com/"], :root a[href^="http://www.coinducks.com/"], :root a[href^="http://www.clkads.com/adServe/"], :root a[href^="http://www.bet365.com/"][href*="&affiliate="], :root a[href^="http://fusionads.net"], :root a[href^="http://www.cash-duck.com/"], :root .trc_rbox_border_elm .syndicatedItem, :root a[href^="http://www.badoink.com/go.php?"], :root a[href^="http://www.babylon.com/welcome/index?affID"], :root a[href^="http://www.amazon.co.uk/exec/obidos/external-search?"], :root a[href^="http://www.afgr3.com/"], :root a[href^="http://srvpub.com/"], :root a[href^="https://cpmspace.com/"], :root a[href^="http://www.afgr2.com/"], :root div[id^="drudge-column-ads-"], :root a[href^="http://www.adxpansion.com"], :root iframe[id^="google_ads_frame"], :root a[href^="http://www.greenmangaming.com/?tap_a="], :root a[href^="http://www.adultdvdempire.com/?partner_id="][href*="&utm_"], :root a[href^="http://www.adskeeper.co.uk/"], :root a[href^="https://transfer.xe.com/signup/track/redirect?"], :root .mw > #rcnt > #center_col > #taw > .c, :root a[href^="https://sexdatingz.live/"], :root a[href^="http://wgpartner.com/"], :root a[href^="http://webtrackerplus.com/"], :root a[href^="http://webgirlz.online/landing/"], :root a[href^="http://web.adblade.com/"], :root a[href^="https://bullads.net/get/"], :root a[href^="https://my-movie.club/"], :root a[href^="https://adhealers.com/"], :root a[href^="http://www.duckcash.eu/"], :root a[href^="http://adserver.adreactor.com/"], :root a[href^="http://uploaded.net/ref/"], :root a[href*="//ridingintractable.com/"], :root a[href^="http://ad.doubleclick.net/"], :root a[href^="http://ul.to/ref/"], :root a[href^="https://understandsolar.com/signup/?lead_source="][href*="&tracking_code="], :root a[href^="https://www.mrskin.com/tour"], :root a[href^="https://www.arthrozene.com/"][href*="?tid="], :root a[href^="http://track.trkvluum.com/"], :root a[href^="http://www.moneyducks.com/"], :root a[href^="https://intrev.co/"], :root a[href^="http://track.incognitovpn.com/"], :root a[href^="http://tour.mrskin.com/"], :root a[href^="http://tour.affbuzzads.com/"], :root [onclick^="window.open('window.open('//delivery.trafficfabrik.com/"], :root div[class^="lifeOnwerAd"], :root a[href^="http://www.bitlord.me/share/"], :root a[href^="http://www.down1oads.com/"], :root a[href^="http://t.wowtrk.com/"], :root a[href^="https://refpaano.host/"], :root a[href^="http://t.mdn2015x3.com/"], :root div[class^="AdhesionAd_"], :root a[href^="http://t.mdn2015x2.com/"], :root a[href^="http://www.friendlyquacks.com/"], :root a[href^="http://bluehost.com/track/"], :root a[href^="http://www.download-provider.org/"], :root a[href^="http://traffic.tc-clicks.com/"], :root a[href^="http://spygasm.com/track?"], :root a[href^="http://adserving.unibet.com/"], :root a[href^="http://www.cdjapan.co.jp/aff/click.cgi/"], :root a[href^="http://www.wantstraffic.com/"], :root a[href^="http://www.hibids10.com/"], :root a[href^="http://www.fducks.com/"], :root a[href^="http://adsrv.keycaptcha.com"], :root a[href^="http://track.affiliatenetwork.co.za/"], :root a[href^="http://serve.williamhill.com/promoRedirect?"], :root a[href^="http://pubads.g.doubleclick.net/"], :root a[href^="https://ad.atdmt.com/"], :root a[href^="http://semi-cod.com/clicks/"], :root div[role="navigation"] + c-wiz > script + div > .kxhcC, :root a[href^="http://see-work.info/"], :root a[href^="https://uncensored.game/"], :root a[href^="http://secure.hostgator.com/~affiliat/"], :root a[href^="https://chaturbate.com/in/?track="], :root a[href^="http://searchtabnew.com/"], :root a[href^="http://vinfdv6b4j.com/"], :root a[href^="https://t.grtyi.com/"], :root a[href^="http://s5prou7ulr.com/"], :root AD-SLOT, :root #rhs_block > #mbEnd, :root a[href^="http://promos.bwin.com/"], :root a[href^="http://play4k.co/"], :root [onclick*="content.ad/"], :root a[href^="//4c7og3qcob.com/"], :root div[id^="ad-gpt-"], :root a[href^="http://partner.sbaffiliates.com/"], :root a[href^="https://spygasm.com/track?"], :root a[href^="http://papi.mynativeplatform.com:80/pub2/"], :root #cnt #center_col > #taw > #tvcap > .c._oc._Lp, :root a[href^="http://cdn.adstract.com/"], :root a[href^="http://buysellads.com/"], :root a[href^="http://n217adserv.com/"], :root a[href^="http://n.admagnet.net/"], :root a[href^="http://mob1ledev1ces.com/"], :root a[href^="http://secure.signup-page.com/"], :root div[data-crl="true"][data-id^="CarouselPLA-"], :root a[href^="http://linksnappy.com/?ref="], :root a[href^="http://keep2share.cc/pr/"], :root .widget-pane-section-result[data-result-ad-type], :root a[href^="http://imads.integral-marketing.com/"], :root a[href^="http://liversely.com/"], :root a[href^="http://tracking.toroadvertising.com/"], :root a[href*="?adlivk="][href*="&refer="], :root a[href^="http://https://www.get-express-vpn.com/offer/"], :root a[href^="http://guideways.info/"], :root a[href^="http://goldmoney.com/?gmrefcode="], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > div > .vci, :root a[href^="http://go.trafficshop.com/"], :root a[href*=".adk2x.com/"], :root ADS-RIGHT, :root a[href^="http://go.seomojo.com/tracking202/"], :root #rhs_block > .ts[cellspacing="0"][cellpadding="0"][style="padding:0"], :root a[href^="http://go.oclaserver.com/"], :root bottomadblock, :root a[href^="http://go.ad2up.com/"], :root a[href^="http://galleries.securewebsiteaccess.com/"], :root a[href^="http://sharesuper.info/"], :root a[href^="http://fileloadr.com/"], :root a[href^="http://www.affiliates1128.com/processing/"], :root a[data-redirect^="this.href='http://paid.outbrain.com/network/redir?"], :root a[href^="http://ffxitrack.com/"], :root #rhswrapper > #rhssection[border="0"][bgcolor="#ffffff"], :root [id*="MGWrap"], :root a[href*="pussl3.com"], :root a[href^="https://track.52zxzh.com/"], :root a[href^="https://bnsjb1ab1e.com/"], :root a[href^="http://marketgid.com"], :root a[href^="http://feeds1.validclick.com/"], :root a[href^="http://eclkmpsa.com/"], :root a[href^="http://look.djfiln.com/"], :root a[href^="http://feedads.g.doubleclick.net/"], :root a[href^="http://farm.plista.com/pets"], :root a[href^="http://www.clickansave.net/"], :root a[href^="http://extra.bet365.com/"][href*="?affiliate="], :root FBS-AD, :root a[href^="http://ethfw0370q.com/"], :root a[href^="http://elitefuckbook.com/"], :root a[href^="http://earandmarketing.com/"], :root a[href^="http://pan.adraccoon.com?"], :root a[href^="https://ads-for-free.com/click.php?"], :root a[href^="https://paid.outbrain.com/network/redir?"], :root a[href^="http://refer.webhostingbuzz.com/"], :root a[href^="//www.mgid.com/"], :root a[href^="https://flirtaescopa.com/"], :root a[href^="http://pokershibes.com/index.php?ref="], :root a[href^="http://lp.ezdownloadpro.info/"], :root a[href^="http://dwn.pushtraffic.net/"], :root .GFYY1SVD2 > .GFYY1SVC2 > .GFYY1SVF5, :root img[alt^="Fuckbook"], :root a[href^="http://adrunnr.com/"], :root a[href^="http://lp.ncdownloader.com/"], :root a[href^="http://www.webtrackerplus.com/"], :root a[href^="http://download-performance.com/"], :root a[href^="http://down1oads.com/"], :root .Mpopup + #Mad > #MadZone, :root a[href^="http://refpa.top/"], :root a[href^="https://gghf.mobi/"], :root a[href*=".qertewrt.com/"], :root a[href^="http://dftrck.com/"], :root a[href^="http://databass.info/"], :root a[href^="http://www.firstclass-download.com/"], :root div[id^="YFBMSN"], :root a[href^="http://install.securewebsiteaccess.com/"], :root a[data-url^="http://paid.outbrain.com/network/redir?"] + .author, :root a[href^="http://hyperlinksecure.com/go/"], :root div > [class][onclick*=".updateAnalyticsEvents"], :root a[href^="https://gogoman.me/"], :root a[href^="http://www.adbrite.com/mb/commerce/purchase_form.php?"], :root a[href^="http://freesoftwarelive.com/"], :root a[href^="http://engine.newsmaxfeednetwork.com/"], :root a[href^="http://data.linoleictanzaniatitanic.com/"], :root a[href^="//awejmp.com/"], :root a[href^="http://d2.zedo.com/"], :root a[href^="http://igromir.info/"], :root a[href*="=exoclick"], :root a[href^="http://a63t9o1azf.com/"], :root a[href^="http://cpaway.afftrack.com/"], :root a[href^="http://clkmon.com/adServe/"], :root a[href^="http://clickserv.sitescout.com/"], :root a[href^="http://clickandjoinyourgirl.com/"], :root .ch[onclick="ga(this,event)"], :root a[href^="http://chaturbate.com/affiliates/"], :root a[href^="http://centertrust.xyz/"], :root [href^="http://advertisesimple.info/"], :root a[href^="http://cdn3.adexprts.com/"], :root div[class^="ad_border_"], :root a[href^="//5e1fcb75b6d662d.com/"], :root a[href^="http://campaign.bharatmatrimony.com/cbstrack/"], :root div[id^="ad-cid-"], :root a[href^="http://cdn.adsrvmedia.net/"], :root a[href^="http://mgid.com/"], :root a[href^="http://cinema.friendscout24.de?"], :root a[href^="http://casino-x.com/?partner"], :root div[class^="ads-partner-"], :root a[href^="http://campaign.bharatmatrimony.com/track/"], :root AFS-AD, :root a[href^="http://contractallsticker.net/"], :root .commercial-unit-desktop-rhs > .iKidV > .Ee92ae + .P2mpm + .hp3sk, :root a[href^="http://c.jumia.io/"], :root a[href^="http://c.actiondesk.com/"], :root div[class^="AdBannerWrapper-"], :root a[href^="https://www.mypornstarcams.com/landing/click/"], :root a[href^="http://media.paddypower.com/redirect.aspx?"], :root a[href^="http://www.brightwheel.info/"], :root a[href^="http://betahit.click/"], :root [lazy-ad="leftthin_banner"], :root a[href*=".opskln.com/"], :root a[href^="https://rev.adsession.com/"], :root div[id^="acm-ad-tag-"], :root a[href^="http://tracking.deltamediallc.com/"], :root a[href^="http://azmobilestore.co/"], :root #assetsListings[style="display: block;"], :root a[href^="http://bestchickshere.com/"], :root a[href^="http://bcp.crwdcntrl.net/"], :root a[href^="https://porndeals.com/?track="], :root a[href^="http://finaljuyu.com/"], :root a[href^="http://adprovider.adlure.net/"], :root a[href^="http://banners.victor.com/processing/"], :root a[href^="https://playuhd.host/"], :root [src^="/Redirect.a2b?"], :root div[class*="_AdInArticle_"], :root a[href^="http://y1jxiqds7v.com/"], :root a[href^="http://taboola-"][href*="/redirect.php?app.type="], :root a[href*=".clksite.com/"], :root a[href^="http://b.bestcompleteusa.info/"], :root a[href*=".udncoeln.com/"], :root a[href^="http://aff.ironsocket.com/"], :root a[href^="http://www.ireel.com/signup?ref"], :root a[href^="https://www.firstload.com/affiliate/"], :root a[href^="http://adultgames.xxx/"], :root a[href^="http://s9kkremkr0.com/"], :root #content > #right > .dose > .dosesingle, :root a[href^="http://adserver.adtech.de/"], :root a[href^="http://rekoverr.com/"], :root a[href^="http://adtrackone.eu/"], :root div[id^="traffective-ad-"], :root a[href^="http://adtrack123.pl/"], :root a[href^="http://greensmoke.com/"], :root #flowplayer > div[style="position: absolute; width: 300px; height: 275px; left: 222.5px; top: 85px; z-index: 999;"], :root .vi-lb-placeholder[title="ADVERTISEMENT"], :root a[href^="http://join3.bannedsextapes.com/track/"], :root a[data-url^="http://paid.outbrain.com/network/redir?"], :root a[href^="https://www.adxtro.com/"], :root a[href^="http://www.gfrevenge.com/landing/"], :root a[href^="http://adserver.adtechus.com/"], :root #center_col > #resultStats + #tads, :root a[href^="http://easydownload4you.com/"], :root a[href^="http://ads2.williamhill.com/redirect.aspx?"], :root a[href^="http://www.duckssolutions.com/"], :root a[href^="http://ads.betfair.com/redirect.aspx?"], :root a[href^="http://adlev.neodatagroup.com/"], :root a[href^="http://adfarm.mediaplex.com/"], :root [id^="adframe_wrap_"], :root a[href^="http://adclick.g.doubleclick.net/"], :root a[href^="http://www.freefilesdownloader.com/"], :root a[href^="https://mob1ledev1ces.com/"], :root a[href^="http://9nl.es/"], :root a[href^="http://affiliate.glbtracker.com/"], :root div[id^="proadszone-"], :root a[href^="http://record.sportsbetaffiliates.com.au/"], :root a[href^="http://anonymous-net.com/"], :root a[href^="http://ad.yieldmanager.com/"], :root div[id^="ads300_250-widget"], :root a[href^="http://aflrm.com/"], :root a[href^=" http://n47adshostnet.com/"], :root a[href^="http://wct.link/"], :root a[href^="http://ad-emea.doubleclick.net/"], :root .ob_container .item-container-obpd, :root a[href^="http://click.payserve.com/"], :root c-wiz[jsrenderer="YnuqN"] > div > div > .Rn1jbe, :root #rhs_block .xpdopen > ._OKe > div > .mod > ._yYf, :root .rscontainer > .ellip, :root a[href^="http://a.adquantix.com/"], :root a[href^="http://googleads.g.doubleclick.net/pcs/click"], :root a[href^="http://fsoft4down.com/"], :root .__zinit .__y_item, :root a[href^="http://online.ladbrokes.com/promoRedirect?"], :root a[href^="http://4c7og3qcob.com/"], :root a[href^="http://www.hitcpm.com/"], :root a[href^="http://45eijvhgj2.com/"], :root a[href^="http://3wr110.net/"], :root div[class^="adbanner_"], :root a[href^="http://1phads.com/"], :root a[href^="https://fonts.fontplace9.com/"], :root a[href^="http://affiliate.coral.co.uk/processing/"], :root a[href^="//www.pd-news.com/"], :root a[href^="https://t.mobtya.com/"], :root a[href^="//voyeurhit.com/cs/"], :root a[href^="//pubads.g.doubleclick.net/"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"] + .ob_source, :root a[href^="https://deliver.tf2www.com/"], :root a[href^="//porngames.adult/?SID="], :root a[href^="http://www.easydownloadnow.com/"], :root div[data-ad-underplayer], :root a[href^="http://cdn3.adbrau.com/"], :root a[href^="https://chaturbate.xyz/"], :root a[href^="//mob1ledev1ces.com/"], :root a[href^="http://refpaano.host/"], :root a[href^="//zenhppyad.com/"], :root a[href^="//nlkdom.com/"], :root a[href^="//ads.ad-center.com/"], :root a[href*=".red90121.com/"], :root div[id^="sticky_ad_"], :root a[href^="//look.djfiln.com/"], :root a[href^="http://hpn.houzz.com/"], :root #mn #center_col > div > h2.spon:first-child, :root .plistaList > .plista_widget_underArticle_item[data-type="pet"], :root a[href^="//jsmptjmp.com/"], :root a[href^="http://www.liutilities.com/"], :root a[href^="//go.onclasrv.com/"], :root a[onmousedown^="this.href='http://paid.outbrain.com/network/redir?"][target="_blank"], :root a[href^="http://ads.sprintrade.com/"], :root a[href^="//z6naousb.com/"], :root a[href^="https://www.oneclickroot.com/?tap_a="] > img, :root a[href*="a2g-secure.com"], :root .commercial-unit-mobile-top .jackpot-main-content-container > .UpgKEd + .nZZLFc > .vci, :root div[id^="advads_"], :root div[class^="ResponsiveAd-"], :root #content > #center > .dose > .dosesingle, :root #\5f _mom_ad_12, :root a[href^="//db52cc91beabf7e8.com/"], :root a[href^="http://latestdownloads.net/download.php?"], :root .nrelate .nr_partner, :root [ad-id^="googlead"], :root a[href^="//bwnjijl7w.com/"], :root a[href^="https://goraps.com/"], :root [id^="bunyad_ads_"], :root .trc_rbox .syndicatedItem, :root a[href^="http://cwcams.com/landing/click/"], :root a[href^="http://affiliates.pinnaclesports.com/processing/"], :root a[href^="http://get.slickvpn.com/"], :root a[href^="//api.ad-goi.com/"], :root .ob_dual_right > .ob_ads_header ~ .odb_div, :root a[href^="//adbit.co/?a=Advertise&"], :root a[href^="//88d7b6aa44fb8eb.com/"], :root a[href^="http://tracker.mybroadband.co.za/"], :root a[href^="//4f6b2af479d337cf.com/"], :root a[href^="//40ceexln7929.com/"], :root a[href^="http://pwrads.net/"], :root a[href*="googleme.eu"], :root a[href^="//00ae8b5a9c1d597.com/"], :root a[href^="http://hd-plugins.com/download/"], :root a[href^="http://NowDownloadAll.com"], :root a[href^=" http://www.sex.com/"][href*="&utm_"], :root a[href*="onclkds."], :root div[id^="adfox_"], :root a[href^="http://k2s.cc/code/"], :root .ra[width="30%"][align="right"] + table[width="70%"][cellpadding="0"], :root a[href*="//bongacams.com/track?"], :root a[data-oburl^="http://paid.outbrain.com/network/redir?"], :root a[href*="mfroute.com/"], :root a[href*=".smartadserver.com"], :root .rhsvw[style="background-color:#fff;margin:0 0 14px;padding-bottom:1px;padding-top:1px;"], :root #rhs_block > script + .c._oc._Ve.rhsvw, :root a[href*="emprestimo.eu"], :root a[href^="http://www.quick-torrent.com/download.html?aff"], :root a[href*="=Adtracker"], :root div[id^="ads120_600-widget"], :root a[href^="http://ads.ad-center.com/"], :root a[href*="/adrotate-out.php?"], :root a[href^="http://www.torntvdl.com/"], :root a[href^="http://hyperies.info/"], :root a[href^="http://amzn.to/"] > img[src^="data"], :root a[href*="//bongacams2.com/track?"], :root iframe[src^="http://ad.yieldmanager.com/"], :root a[href^="http://www.fonts.com/BannerScript/"], :root a[onmousedown^="this.href='https://paid.outbrain.com/network/redir?"][target="_blank"], :root a[href*="//3wr110.xyz/"], :root #center_col > div[style="font-size:14px;margin-right:0;min-height:5px"] > div[style="font-size:14px;margin:0 4px;padding:1px 5px;background:#fff8e7"], :root a[href^="https://tracking.truthfinder.com/?a="], :root a[href*=".purple6401.com/"], :root div[aria-label="Ads"], :root a[href^="http://landingpagegenius.com/"], :root a[href*=".irtyc.com/"], :root a[href*=".inclk.com/"], :root a[href^="http://codec.codecm.com/"], :root a[href^="http://us.marketgid.com"], :root a[href*="/cmd.php?ad="], :root a[href^="http://www.bet365.com/"][href*="?affiliate="], :root a[href^="http://deloplen.com/afu.php?zoneid="], :root a[href*=".clkcln.com/"], :root a[href*=".allsports4you.club"], :root a[href^="http://stateresolver.link/"], :root a[href^="http://k2s.cc/pr/"], :root a[href^="https://www.pornhat.com/"][rel="nofollow"], :root topadblock, :root a[href^="http://paid.outbrain.com/network/redir?"], :root a[data-obtrack^="http://paid.outbrain.com/network/redir?"], :root #mn div[style="position:relative"] > #center_col > div > ._dPg, :root a[href$="/vghd.shtml"], :root a[href^="http://popup.taboola.com/"], :root a[href^="http://liversely.net/"], :root div[data-subscript="Advertising"], :root a[data-widget-outbrain-redirect^="http://paid.outbrain.com/network/redir?"], :root a[href^="http://www.epicgameads.com/"], :root a[href^="http://cp.cbbp1.com"], :root #center_col > #taw > #tvcap > .cu-container > .commercial-unit-desktop-top, :root a[href^="https://meet-to-fuck.com/tds"], :root a[data-redirect^="http://click.plista.com/pets"], :root [onclick^="window.open('https://www.brazzersnetwork.com/landing/"], :root #center_col > #resultStats + div[style="border:1px solid #dedede;margin-bottom:11px;padding:5px 7px 5px 6px"], :root a[href*=".intab.fun/"], :root #ads > .dose > .dosesingle, :root div[class^="index_displayAd_"], :root a[href^="http://www.1clickdownloader.com/"], :root [onclick^="window.open('http://adultfriendfinder.com/search/"], :root a[href^="http://www.sexgangsters.com/?pid="], :root [lazy-ad="leftbottom_banner"], :root [href^="https://get-download.club/"], :root a[href^="http://data.committeemenencyclopedicrepertory.info/"], :root [href^="http://www.xiloy.site/"], :root a[href^="http://www.idownloadplay.com/"], :root .__ywl .__y_item, :root a[href*="deliver.trafficfabrik.com"], :root AMP-AD, :root a[href^="//healthaffiliate.center/"], :root #mbEnd[cellspacing="0"][cellpadding="0"], :root div[id^="ad-server-"], :root a[href^="http://www.mysuperpharm.com/"], :root .GHOFUQ5BG2 > .GHOFUQ5BF2 > .GHOFUQ5BG5, :root a[href^="https://djtcollectorclub.org/"][href*="?affiliate_id="], :root a[href^="https://chaturbate.com/in/?tour="], :root .GFYY1SVE2 > .GFYY1SVD2 > .GFYY1SVG5, :root a[href*=".trust.zone"], :root .trc_related_container div[data-item-syndicated="true"], :root [id*="MarketGid"], :root a[href^="http://ads.expekt.com/affiliates/"], :root a[href^="http://www.liversely.net/"], :root a[href^="http://websitedhoome.com/"], :root a[href^="https://land.brazzersnetwork.com/landing/"], :root a[href^="http://mmo123.co/"], :root a[href^="http://www.TwinPlan.com/AF_"], :root .plistaList > .itemLinkPET, :root .rc-cta[data-target], :root [href^="https://maskip.co/"], :root a[href^="http://xads.zedo.com/"], :root div[id^="advads-"], :root .GJJKPX2N1 > .GJJKPX2M1 > .GJJKPX2P4, :root a[data-redirect^="http://paid.outbrain.com/network/redir?"], :root a[href^="https://fileboom.me/pr/"], :root #center_col > #\5f Emc, :root [href*="//xml.revrtb.com/"], :root #center_col > #res > #topstuff + #search > div > #ires > #rso > #flun, :root div[class^="adpubs-"], :root a[href*="ad2upapp.com/"], :root .icons-rss-feed + .icons-rss-feed div[class$="_item"], :root a[href^="https://gamescarousel.com/"], :root .ra[align="left"][width="30%"], :root a[href^="http://9amq5z4y1y.com/"], :root a[href^="https://secure.eveonline.com/ft/?aid="], :root a[href^="http://www.bluehost.com/track/"] > img, :root div[id^="div_ad_stack_"], :root a[href^="https://adswick.com/"], :root a[href^="http://allaptair.club/"], :root a[data-nvp*="'trafficUrl':'https://paid.outbrain.com/network/redir?"], :root .mod > .gws-local-promotions__border, :root a[href^="http://www.mrskin.com/tour"], :root #topstuff > #tads, :root .jobs-information-call-to-action + .jobs-information-call-to-action div[class$="_item"], :root #resultspanel > #topads, :root ad-slot--header-banner, :root a[href^="http://www.myfreepaysite.com/sfw.php?aid"], :root a[href*="//bongacams5.com/track?"], :root td[valign="top"] > .mainmenu[style="padding:10px 0 0 0 !important;"], :root a[href^="https://t.hrtyj.com/"], :root a[href^="//go.vedohd.org/"], :root a[onmousedown^="this.href='http://staffpicks.outbrain.com/network/redir?"][target="_blank"], :root a[href^="https://dynamicadx.com/"], :root a[href^="http://clicks.binarypromos.com/"], :root .trc_rbox_div a[target="_blank"][href^="http://tab"], :root div[class^="pane-google-admanager-"], :root a[href^="http://adultfriendfinder.com/p/register.cgi?pid="], :root a[href*=".revimedia.com/"], :root #ssmiwdiv[jsdisplay], :root .lads[width="100%"][style="background:#FFF8DD"], :root a[href^="http://360ads.go2cloud.org/"], :root a[href^="http://z1.zedo.com/"], :root a[data-redirect^="https://paid.outbrain.com/network/redir?"], :root div[id^="dfp-slot-"], :root a[data-oburl^="https://paid.outbrain.com/network/redir?"], :root .__y_elastic .__y_item, :root div[class^="index_adAfterContent_"], :root a[href^="//medleyads.com/spot/"], :root #tads + div + .c, :root a[href^="http://www.installads.net/"], :root .GKJYXHBF2 > .GKJYXHBE2 > .GKJYXHBH5, :root div[class^="Ad__container"], :root #mn #center_col > div > h2.spon:first-child + ol:last-child, :root a[href^="https://iac.ampxdirect.com/"], :root a[href^="https://www.share-online.biz/affiliate/"], :root a[href*=".adsrv.eacdn.com/"] > img, :root div[data-mediatype="advertising"], :root a[href^="https://track.themadtrcker.com/"], :root a[href*=".bang.com/"][href*="&aff="], :root a[href^="https://control.trafficfabrik.com/"], :root a[href^="https://traffic.bannerator.com/"], :root a[href^="https://track.adform.net/"], :root #mn div[style="position:relative"] > #center_col > ._Ak, :root a[href^="https://clixtrac.com/"], :root a[href^="http://campeeks.com/"][href*="&utm_"], :root a[href^="http://www.affbuzzads.com/affiliate/"], :root .section-result[data-result-ad-type], :root .l-container > #fishtank, :root #flowplayer > div[style="z-index: 208; position: absolute; width: 300px; height: 275px; left: 222.5px; top: 85px;"], :root a[href^="http://www.twinplan.com/AF_"], :root a[href^="http://getlinksinaseconds.com/"], :root a[href^="http://espn.zlbu.net/"], :root a[href*="//promo-bc.com/track?"], :root p[id^="div-gpt-ad-"], :root #\5f _mom_ad_2, :root a[href^="https://horny-pussies.com/tds"], :root a[href^="https://americafirstpolls.com/"], :root a[href^="http://findersocket.com/"], :root a[href^="http://www.afco2go.com/srv.php?"], :root a[href*="/servlet/click/zone?"], :root a[href^="https://track.totalav.com/"], :root [lazy-ad="top_banner"], :root a[href^="https://www.nutaku.net/signup/landing/"], :root .__y_inner > .__y_item, :root a[href^="http://istri.it/?"], :root #main-content > [style="padding:10px 0 0 0 !important;"], :root a[href^="http://www.dl-provider.com/search/"], :root #atvcap + #tvcap > .mnr-c > .commercial-unit-mobile-top, :root a[href*="=adscript"], :root a[href^="https://adnetwrk.com/"], :root #main_col > #center_col div[style="font-size:14px;margin:0 4px;padding:1px 5px;background:#fff7ed"], :root [lazy-ad="lefttop_banner"], :root a[href^="https://www.g4mz.com/"], :root a[href^="http://intent.bingads.com/"], :root .__ywvr .__y_item, :root LEADERBOARD-AD, :root #header + #content > #left > #rlblock_left, :root [id*="ScriptRoot"], :root a[href^="http://g1.v.fwmrm.net/ad/"], :root #center_col > #taw > #tvcap > .commercial-unit-desktop-top, :root a[href*="5iclx7wa4q.com"], :root a[href^=" http://ads.ad-center.com/"], :root #rhs_block .mod > .luhb-div > div[data-async-type="updateHotelBookingModule"], :root #center_col > #resultStats + div + #res + #tads, :root a[href^="http://record.commissionking.com/"], :root a[href^="http://www.mobileandinternetadvertising.com/"], :root .trc_rbox_div .syndicatedItemUB, :root a[href^="http://ucam.xxx/?utm_"], :root #taw > .med + div > #tvcap > .mnr-c:not(.qs-ic) > .commercial-unit-mobile-top, :root a[href^="https://trackjs.com/?utm_source"], :root a[href^="http://t.mdn2015x1.com/"], :root #center_col > #resultStats + #tads + #res + #tads, :root #\5f _admvnlb_modal_container, :root a[href^="http://connectlinking6.com/"], :root #\5f _nq__hh[style="display:block!important"], :root .plista_widget_belowArticleRelaunch_item[data-type="pet"] { display: none !important; }</style></head>
+<body class="home page-template-default page page-id-39 custom-background wp-embed-responsive give-recurring singular enable-search-modal missing-post-thumbnail has-no-pagination not-showing-comments show-avatars footer-top-visible reduced-spacing elementor-default elementor-kit-9 elementor-page elementor-page-39" data-elementor-device-mode="desktop">
+
+		<div data-elementor-type="header" data-elementor-id="95" class="elementor elementor-95 elementor-location-header" data-elementor-settings="[]">
+		<div class="elementor-inner">
+			<div class="elementor-section-wrap">
+						<section class="elementor-element elementor-element-4dc5d8f1 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="4dc5d8f1" data-element_type="section" id="header_pop">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1d8b1e8b elementor-column elementor-col-100 elementor-top-column" data-id="1d8b1e8b" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-5275518b elementor-reverse-mobile elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="5275518b" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-74dfd063 elementor-hidden-phone elementor-column elementor-col-33 elementor-inner-column" data-id="74dfd063" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-d32d289 elementor-icon-list--layout-inline elementor-align-left elementor-mobile-align-center elementor-widget elementor-widget-icon-list" data-id="d32d289" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item">
+					<a href="tel:020 3659 6553" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-phone"></i>						</span>
+										<span class="elementor-icon-list-text">020 3659 6553</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="mailto:info@masjidabubakr.co.uk" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-envelope"></i>						</span>
+										<span class="elementor-icon-list-text">info@masjidabubakr.co.uk</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+											<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fas fa-map-marker-alt"></i>						</span>
+										<span class="elementor-icon-list-text">26a Mansfield Road Walthamstow, London E17 6PJ</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-7e945f10 elementor-column elementor-col-33 elementor-inner-column" data-id="7e945f10" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-75bbad2a elementor-search-form--skin-full_screen elementor-widget elementor-widget-search-form" data-id="75bbad2a" data-element_type="widget" data-settings="{&quot;skin&quot;:&quot;full_screen&quot;}" data-widget_type="search-form.default">
+				<div class="elementor-widget-container">
+					<form class="elementor-search-form" role="search" action="https://masjidabubakr.co.uk/" method="get">
+			 
+						<div class="elementor-search-form__toggle">
+				<i aria-hidden="true" class="fas fa-search"></i>				<span class="elementor-screen-only">Search</span>
+			</div>
+						<div class="elementor-search-form__container">
+								<input placeholder="" class="elementor-search-form__input" type="search" name="s" title="Search" value="">
+																<div class="dialog-lightbox-close-button dialog-close-button">
+					<i class="eicon-close" aria-hidden="true"></i>
+					<span class="elementor-screen-only">Close</span>
+				</div>
+							</div>
+		</form>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-258784a elementor-column elementor-col-33 elementor-inner-column" data-id="258784a" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1ff19843 elementor-icon-list--layout-inline elementor-align-right elementor-mobile-align-left elementor-widget elementor-widget-icon-list" data-id="1ff19843" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items elementor-inline-items">
+							<li class="elementor-icon-list-item">
+					<a href="https://www.facebook.com/MasjidAbuBakr1" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-facebook-f"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://twitter.com/masjidabubakr" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-twitter"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://www.youtube.com/user/masjidabubakr1">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-youtube"></i>						</span>
+										<span class="elementor-icon-list-text"></span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-618f3b8c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section elementor-sticky elementor-sticky--active elementor-section--handles-inside elementor-sticky--effects" data-id="618f3b8c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" style="position: fixed; width: 1212px; margin-top: 0px; margin-bottom: 0px; top: 0px;">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-38ec59b6 elementor-column elementor-col-33 elementor-inner-column" data-id="38ec59b6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-749404c6 elementor-widget elementor-widget-image" data-id="749404c6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://masjidabubakr.co.uk/">
+							<img width="737" height="132" src="./Masjid Abu Bakr_files/12logo45.png" class="attachment-full size-full" alt="" srcset="https://masjidabubakr.co.uk/wp-content/uploads/2020/04/12logo45.png 737w, https://masjidabubakr.co.uk/wp-content/uploads/2020/04/12logo45-300x54.png 300w" sizes="(max-width: 737px) 100vw, 737px">								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-4a4ce001 elementor-column elementor-col-33 elementor-inner-column" data-id="4a4ce001" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1aed4e80 elementor-nav-menu__align-right elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="1aed4e80" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade"><ul id="menu-1-1aed4e80" class="elementor-nav-menu" data-smartmenus-id="15905457547127415"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-39 current_page_item menu-item-59"><a href="https://masjidabubakr.co.uk/" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://masjidabubakr.co.uk/about/" class="elementor-item">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://masjidabubakr.co.uk/services/" class="elementor-item">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://masjidabubakr.co.uk/madrasah/" class="elementor-item">Madrasah</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://masjidabubakr.co.uk/classes/" class="elementor-item">Classes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a href="https://masjidabubakr.co.uk/events-2/" class="elementor-item">Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="https://masjidabubakr.co.uk/news/" class="elementor-item">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://masjidabubakr.co.uk/contact/" class="elementor-item">Contact</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false" style="">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true" style="width: 1212px; left: 0px; top: 37px;"><ul id="menu-2-1aed4e80" class="elementor-nav-menu" data-smartmenus-id="15905457547148416"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-39 current_page_item menu-item-59"><a href="https://masjidabubakr.co.uk/" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://masjidabubakr.co.uk/about/" class="elementor-item">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://masjidabubakr.co.uk/services/" class="elementor-item">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://masjidabubakr.co.uk/madrasah/" class="elementor-item">Madrasah</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://masjidabubakr.co.uk/classes/" class="elementor-item">Classes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a href="https://masjidabubakr.co.uk/events-2/" class="elementor-item">Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="https://masjidabubakr.co.uk/news/" class="elementor-item">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://masjidabubakr.co.uk/contact/" class="elementor-item">Contact</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-4b6d8f31 elementor-column elementor-col-33 elementor-inner-column" data-id="4b6d8f31" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-986ff26 elementor-align-right elementor-widget elementor-widget-button" data-id="986ff26" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://masjidabubakr.co.uk/donate/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+							</span>
+						<span class="elementor-button-text">Donate</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section><section class="elementor-element elementor-element-618f3b8c elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section elementor-sticky elementor-sticky__spacer" data-id="618f3b8c" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;sticky&quot;:&quot;top&quot;,&quot;sticky_on&quot;:[&quot;desktop&quot;,&quot;tablet&quot;,&quot;mobile&quot;],&quot;sticky_offset&quot;:0,&quot;sticky_effects_offset&quot;:0}" style="visibility: hidden; transition: none 0s ease 0s; animation: 0s ease 0s 1 normal none running none;">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-38ec59b6 elementor-column elementor-col-33 elementor-inner-column" data-id="38ec59b6" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-749404c6 elementor-widget elementor-widget-image" data-id="749404c6" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+											<a href="https://masjidabubakr.co.uk/">
+							<img width="737" height="132" src="./Masjid Abu Bakr_files/12logo45.png" class="attachment-full size-full" alt="" srcset="https://masjidabubakr.co.uk/wp-content/uploads/2020/04/12logo45.png 737w, https://masjidabubakr.co.uk/wp-content/uploads/2020/04/12logo45-300x54.png 300w" sizes="(max-width: 737px) 100vw, 737px">								</a>
+											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-4a4ce001 elementor-column elementor-col-33 elementor-inner-column" data-id="4a4ce001" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1aed4e80 elementor-nav-menu__align-right elementor-nav-menu--stretch elementor-nav-menu__text-align-center elementor-nav-menu--indicator-classic elementor-nav-menu--dropdown-tablet elementor-nav-menu--toggle elementor-nav-menu--burger elementor-widget elementor-widget-nav-menu" data-id="1aed4e80" data-element_type="widget" data-settings="{&quot;full_width&quot;:&quot;stretch&quot;,&quot;layout&quot;:&quot;horizontal&quot;,&quot;toggle&quot;:&quot;burger&quot;}" data-widget_type="nav-menu.default">
+				<div class="elementor-widget-container">
+						<nav role="navigation" class="elementor-nav-menu--main elementor-nav-menu__container elementor-nav-menu--layout-horizontal e--pointer-underline e--animation-fade"><ul id="menu-1-1aed4e80" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-39 current_page_item menu-item-59"><a href="https://masjidabubakr.co.uk/" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://masjidabubakr.co.uk/about/" class="elementor-item">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://masjidabubakr.co.uk/services/" class="elementor-item">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://masjidabubakr.co.uk/madrasah/" class="elementor-item">Madrasah</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://masjidabubakr.co.uk/classes/" class="elementor-item">Classes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a href="https://masjidabubakr.co.uk/events-2/" class="elementor-item">Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="https://masjidabubakr.co.uk/news/" class="elementor-item">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://masjidabubakr.co.uk/contact/" class="elementor-item">Contact</a></li>
+</ul></nav>
+					<div class="elementor-menu-toggle" role="button" tabindex="0" aria-label="Menu Toggle" aria-expanded="false">
+			<i class="eicon-menu-bar" aria-hidden="true"></i>
+			<span class="elementor-screen-only">Menu</span>
+		</div>
+			<nav class="elementor-nav-menu--dropdown elementor-nav-menu__container" role="navigation" aria-hidden="true"><ul id="menu-2-1aed4e80" class="elementor-nav-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-39 current_page_item menu-item-59"><a href="https://masjidabubakr.co.uk/" aria-current="page" class="elementor-item elementor-item-active">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-22"><a href="https://masjidabubakr.co.uk/about/" class="elementor-item">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-54"><a href="https://masjidabubakr.co.uk/services/" class="elementor-item">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-55"><a href="https://masjidabubakr.co.uk/madrasah/" class="elementor-item">Madrasah</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-57"><a href="https://masjidabubakr.co.uk/classes/" class="elementor-item">Classes</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-436"><a href="https://masjidabubakr.co.uk/events-2/" class="elementor-item">Events</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-239"><a href="https://masjidabubakr.co.uk/news/" class="elementor-item">News</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-24"><a href="https://masjidabubakr.co.uk/contact/" class="elementor-item">Contact</a></li>
+</ul></nav>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-4b6d8f31 elementor-column elementor-col-33 elementor-inner-column" data-id="4b6d8f31" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-986ff26 elementor-align-right elementor-widget elementor-widget-button" data-id="986ff26" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://masjidabubakr.co.uk/donate/" class="elementor-button-link elementor-button elementor-size-md" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-icon elementor-align-icon-right">
+							</span>
+						<span class="elementor-button-text">Donate</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+					</div>
+		</div>
+		</div>
+		
+<main id="site-content" role="main">
+
+			<div data-elementor-type="wp-page" data-elementor-id="39" class="elementor elementor-39" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section class="elementor-element elementor-element-ee1cee8 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="ee1cee8" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3f1b9f2 elementor-column elementor-col-100 elementor-top-column" data-id="3f1b9f2" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-9c7d43b elementor--h-position-center elementor--v-position-middle elementor-arrows-position-inside elementor-pagination-position-inside elementor-widget elementor-widget-slides" data-id="9c7d43b" data-element_type="widget" data-settings="{&quot;navigation&quot;:&quot;both&quot;,&quot;autoplay&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;infinite&quot;:&quot;yes&quot;,&quot;transition&quot;:&quot;slide&quot;,&quot;transition_speed&quot;:500}" data-widget_type="slides.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-slides-wrapper elementor-main-swiper swiper-container swiper-container-initialized swiper-container-horizontal" dir="ltr" data-animation="fadeInUp" style="cursor: grab;">
+				<div class="swiper-wrapper elementor-slides" style="transition-duration: 0ms; transform: translate3d(-4848px, 0px, 0px);"><div class="elementor-repeater-item-219b8cc swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 1212px;"><div class="swiper-slide-bg"></div><div class="elementor-background-overlay"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents animated fadeInUp" style="display: block;"><div class="elementor-slide-heading">Masjid Abu Bakr</div><div class="elementor-slide-description">Welcome to our new website. 
+Don't forget to stay in touch with our latest news by clicking 'Subscribe' at the bottom of the page</div><a href="https://masjidabubakr.co.uk/#subscribe12" class="elementor-button elementor-slide-button elementor-size-md">Subscribe Now</a></div></div></div><div class="elementor-repeater-item-8883834 swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" style="width: 1212px;"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents animated fadeInUp" style="display: block;"><div class="elementor-slide-heading">Daily Reminders</div><div class="elementor-slide-description">Join our exciting line up of local and international speakers daily throughout Ramadan via Zoom</div><a href="https://masjidabubakr.co.uk/2020/04/24/ramadan-daily-programs/" class="elementor-button elementor-slide-button elementor-size-md">Watch Live</a></div></div></div><div class="elementor-repeater-item-fd5cbe2 swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 1212px;"><div class="swiper-slide-bg"></div><div class="elementor-background-overlay"></div><a class="swiper-slide-inner" href="https://masjidabubakr.co.uk/donate/"><div class="swiper-slide-contents animated fadeInUp" style="display: block;"><div class="elementor-slide-heading">Project Update</div><div class="elementor-slide-description">HOUSE PROJECT:
+Masjid Abu Bakr has anopportunity to purchase a house that backs on to our Masjid. This property would give us an opportunity to provide more services for the community, especially sisters and Madrasah children InshaAllah. Please use this link to donate to such a great cause!  </div><div class="elementor-button elementor-slide-button elementor-size-md">Donate</div></div></a></div>
+					<div class="elementor-repeater-item-219b8cc swiper-slide swiper-slide-prev" data-swiper-slide-index="0" style="width: 1212px;"><div class="swiper-slide-bg"></div><div class="elementor-background-overlay"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents animated fadeInUp" style="display: block;"><div class="elementor-slide-heading">Masjid Abu Bakr</div><div class="elementor-slide-description">Welcome to our new website. 
+Don't forget to stay in touch with our latest news by clicking 'Subscribe' at the bottom of the page</div><a href="https://masjidabubakr.co.uk/#subscribe12" class="elementor-button elementor-slide-button elementor-size-md">Subscribe Now</a></div></div></div><div class="elementor-repeater-item-8883834 swiper-slide swiper-slide-active" data-swiper-slide-index="1" style="width: 1212px;"><div class="swiper-slide-bg elementor-ken-burns--active"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents animated fadeInUp" style="display: block;"><div class="elementor-slide-heading">Daily Reminders</div><div class="elementor-slide-description">Join our exciting line up of local and international speakers daily throughout Ramadan via Zoom</div><a href="https://masjidabubakr.co.uk/2020/04/24/ramadan-daily-programs/" class="elementor-button elementor-slide-button elementor-size-md">Watch Live</a></div></div></div><div class="elementor-repeater-item-fd5cbe2 swiper-slide swiper-slide-next" data-swiper-slide-index="2" style="width: 1212px;"><div class="swiper-slide-bg"></div><div class="elementor-background-overlay"></div><a class="swiper-slide-inner" href="https://masjidabubakr.co.uk/donate/"><div class="swiper-slide-contents animated fadeInUp" style="display: block;"><div class="elementor-slide-heading">Project Update</div><div class="elementor-slide-description">HOUSE PROJECT:
+Masjid Abu Bakr has anopportunity to purchase a house that backs on to our Masjid. This property would give us an opportunity to provide more services for the community, especially sisters and Madrasah children InshaAllah. Please use this link to donate to such a great cause!  </div><div class="elementor-button elementor-slide-button elementor-size-md">Donate</div></div></a></div>				<div class="elementor-repeater-item-219b8cc swiper-slide swiper-slide-duplicate swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 1212px;"><div class="swiper-slide-bg"></div><div class="elementor-background-overlay"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents animated fadeInUp" style="display: block;"><div class="elementor-slide-heading">Masjid Abu Bakr</div><div class="elementor-slide-description">Welcome to our new website. 
+Don't forget to stay in touch with our latest news by clicking 'Subscribe' at the bottom of the page</div><a href="https://masjidabubakr.co.uk/#subscribe12" class="elementor-button elementor-slide-button elementor-size-md">Subscribe Now</a></div></div></div><div class="elementor-repeater-item-8883834 swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" style="width: 1212px;"><div class="swiper-slide-bg"></div><div class="swiper-slide-inner"><div class="swiper-slide-contents animated fadeInUp" style="display: block;"><div class="elementor-slide-heading">Daily Reminders</div><div class="elementor-slide-description">Join our exciting line up of local and international speakers daily throughout Ramadan via Zoom</div><a href="https://masjidabubakr.co.uk/2020/04/24/ramadan-daily-programs/" class="elementor-button elementor-slide-button elementor-size-md">Watch Live</a></div></div></div><div class="elementor-repeater-item-fd5cbe2 swiper-slide swiper-slide-duplicate swiper-slide-duplicate-next" data-swiper-slide-index="2" style="width: 1212px;"><div class="swiper-slide-bg"></div><div class="elementor-background-overlay"></div><a class="swiper-slide-inner" href="https://masjidabubakr.co.uk/donate/"><div class="swiper-slide-contents animated fadeInUp" style="display: block;"><div class="elementor-slide-heading">Project Update</div><div class="elementor-slide-description">HOUSE PROJECT:
+Masjid Abu Bakr has anopportunity to purchase a house that backs on to our Masjid. This property would give us an opportunity to provide more services for the community, especially sisters and Madrasah children InshaAllah. Please use this link to donate to such a great cause!  </div><div class="elementor-button elementor-slide-button elementor-size-md">Donate</div></div></a></div></div>
+															<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 2"></span><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 3"></span></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-d88741e elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="d88741e" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-7a48f31 elementor-column elementor-col-50 elementor-top-column animated slideInLeft" data-id="7a48f31" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-6ad37de elementor-widget elementor-widget-heading" data-id="6ad37de" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Prayer Times</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-56b57aa dailytable_vertical_12 elementor-widget elementor-widget-shortcode" data-id="56b57aa" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode"><table class="dptTimetable  customStyles dptUserStyles"> 
+            <tbody><tr>
+             <th colspan="3" style="text-align:center"> 26 May 2020 <p class="hijriDate"> 2 Shawwal 1441</p>
+        <div class="dptScNextPrayer">
+            <span class="green">
+                <span class="nextPrayer">Asr Iqamah</span> <h2 class="dptScTime">7:45 pm
+                </h2> 
+                <span class="timeLeftCountDown timeLeft green"> 
+                    2 Hours 21 
+                </span><span class="minLeftText"> Minutes</span>
+        </span></div>
+             </th>
+            </tr>
+            <tr>
+             <th class="highlight">Fast Begins</th>
+             <th colspan="2" class="highlight">1:20 am</th>
+            </tr>
+            <tr>
+             <th class="highlight">Fast Ends</th>
+             <th colspan="2" class="highlight">9:02 pm</th>
+            </tr>
+            <tr>
+                <th class="tableHeading">Prayer</th>
+                <th class="tableHeading">Begins</th>
+                <th class="tableHeading">Iqamah</th>
+            </tr><tr>
+                    <th class="prayerName ">Fajr</th><td class="begins ">1:20 am</td>
+                    <td class="jamah ">4:00 am</td>
+                </tr><tr>
+                    <th class="prayerName ">Sunrise</th><td colspan="2" class="">4:53 am</td></tr><tr>
+                    <th class="prayerName ">Zuhr</th><td class="begins ">1:02 pm</td>
+                    <td class="jamah ">1:30 pm</td>
+                </tr><tr>
+                    <th class="prayerName highlight">Asr</th><td class="begins highlight">6:27 pm</td>
+                    <td class="jamah highlight">7:45 pm</td>
+                </tr><tr>
+                    <th class="prayerName ">Maghrib</th><td class="begins ">9:02 pm</td>
+                    <td class="jamah ">9:05 pm</td>
+                </tr><tr>
+                    <th class="prayerName ">Isha</th><td class="begins ">10:09 pm</td>
+                    <td class="jamah ">10:30 pm</td>
+                </tr><tr>
+                            <th class="prayerName"><span>Jumuah</span></th>
+                            <td colspan="2" class="jamah">12:45 pm (English Speech)</td>
+                        </tr></tbody></table>
+</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-af2d0e1 elementor-column elementor-col-50 elementor-top-column animated slideInRight" data-id="af2d0e1" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-46f8a32 elementor-widget elementor-widget-heading" data-id="46f8a32" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Welcome tO<br>
+<span style="color:#111111;">Masjid Abu Bakr</span></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-c8b3eb5 elementor-widget elementor-widget-html" data-id="c8b3eb5" data-element_type="widget" data-widget_type="html.default">
+				<div class="elementor-widget-container">
+			<audio class="wp-audio-shortcode" id="audio-39-1" preload="none" style="width: 100%;" controls="controls">
+  <source type="audio/mpeg" src="http://livemasjid.net/masjidabubakr.mp3?_=1"><source type="audio/mpeg" src="http://livemasjid.net/masjidabubakr.mp3?_=1"><a href="http://livemasjid.net/masjidabubakr.mp3">http://livemasjid.net/masjidabubakr.mp3</a></audio>		</div>
+				</div>
+				<div class="elementor-element elementor-element-bcc9a3a elementor-widget elementor-widget-text-editor" data-id="bcc9a3a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix">Masjid Abu Bakr was founded in 1994 when it was just a warehouse and then purchased to be transformed into a mosque for the Muslim community predominately from the Asian sub-continent.
+
+As years have gone by, the Muslim community grew bigger and more diverse. We are now proud to say our community represents over 20 different nationalities.</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3b7c8d3 elementor-mobile-align-center elementor-widget elementor-widget-button" data-id="3b7c8d3" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://masjidabubakr.co.uk/about/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Read More</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-9dcce92 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="9dcce92" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-f1e4dd2 elementor-column elementor-col-100 elementor-top-column" data-id="f1e4dd2" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+							<div class="elementor-background-overlay"></div>
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-09a2556 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="09a2556" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3948199 elementor-column elementor-col-100 elementor-inner-column animated zoomIn" data-id="3948199" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;zoomIn&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-e2d56b3 elementor-widget elementor-widget-heading" data-id="e2d56b3" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Latest News <span style="color:#111111;"></span></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-31b6be0 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="31b6be0" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-link"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3ae3326 elementor-grid-3 elementor-grid-tablet-2 elementor-grid-mobile-1 elementor-posts--thumbnail-top elementor-card-shadow-yes elementor-posts__hover-gradient elementor-widget elementor-widget-posts" data-id="3ae3326" data-element_type="widget" data-settings="{&quot;cards_columns&quot;:&quot;3&quot;,&quot;cards_columns_tablet&quot;:&quot;2&quot;,&quot;cards_columns_mobile&quot;:&quot;1&quot;,&quot;cards_row_gap&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:35,&quot;sizes&quot;:[]}}" data-widget_type="posts.cards">
+				<div class="elementor-widget-container">
+					<div class="elementor-posts-container elementor-posts elementor-posts--skin-cards elementor-grid elementor-has-item-ratio">
+				<article class="elementor-post elementor-grid-item post-6371 post type-post status-publish format-standard has-post-thumbnail hentry category-timetablenewsletter">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://masjidabubakr.co.uk/2020/05/25/may-june-2020/">
+			<div class="elementor-post__thumbnail"><img width="300" height="227" src="./Masjid Abu Bakr_files/IMG_6260-300x227.jpg" class="attachment-medium size-medium" alt="Test" srcset="https://masjidabubakr.co.uk/wp-content/uploads/2020/04/IMG_6260-300x227.jpg 300w, https://masjidabubakr.co.uk/wp-content/uploads/2020/04/IMG_6260-1024x773.jpg 1024w, https://masjidabubakr.co.uk/wp-content/uploads/2020/04/IMG_6260-768x580.jpg 768w, https://masjidabubakr.co.uk/wp-content/uploads/2020/04/IMG_6260-1200x906.jpg 1200w, https://masjidabubakr.co.uk/wp-content/uploads/2020/04/IMG_6260.jpg 1242w" sizes="(max-width: 300px) 100vw, 300px"></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://masjidabubakr.co.uk/2020/05/25/may-june-2020/">
+				May-June 2020			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Click here to download the May-June 2020 Newsletter</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://masjidabubakr.co.uk/2020/05/25/may-june-2020/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			25 May 2020		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-6353 post type-post status-publish format-standard has-post-thumbnail hentry category-community">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://masjidabubakr.co.uk/2020/05/23/eid-announcement-3/">
+			<div class="elementor-post__thumbnail elementor-fit-height"><img width="300" height="169" src="./Masjid Abu Bakr_files/Happy-Eid-Al-Fitr-2020-USA-5-300x169.jpg" class="attachment-medium size-medium" alt="" srcset="https://masjidabubakr.co.uk/wp-content/uploads/2020/05/Happy-Eid-Al-Fitr-2020-USA-5-300x169.jpg 300w, https://masjidabubakr.co.uk/wp-content/uploads/2020/05/Happy-Eid-Al-Fitr-2020-USA-5.jpg 650w" sizes="(max-width: 300px) 100vw, 300px"></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://masjidabubakr.co.uk/2020/05/23/eid-announcement-3/">
+				EID ANNOUNCEMENT			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>The #Hilaal for #Shawwal 1441 was sighted in the designated zone for #Morocco. The moon</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://masjidabubakr.co.uk/2020/05/23/eid-announcement-3/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			23 May 2020		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				<article class="elementor-post elementor-grid-item post-6340 post type-post status-publish format-standard has-post-thumbnail hentry category-community category-uncategorized">
+			<div class="elementor-post__card">
+				<a class="elementor-post__thumbnail__link" href="https://masjidabubakr.co.uk/2020/05/23/eid-fitrana-update/">
+			<div class="elementor-post__thumbnail"><img width="300" height="200" src="./Masjid Abu Bakr_files/zakat-al-fitr-300x200.png" class="attachment-medium size-medium" alt="" srcset="https://masjidabubakr.co.uk/wp-content/uploads/2020/05/zakat-al-fitr-300x200.png 300w, https://masjidabubakr.co.uk/wp-content/uploads/2020/05/zakat-al-fitr.png 714w" sizes="(max-width: 300px) 100vw, 300px"></div>
+		</a>
+				<div class="elementor-post__text">
+				<h3 class="elementor-post__title">
+			<a href="https://masjidabubakr.co.uk/2020/05/23/eid-fitrana-update/">
+				EID FITRANA UPDATE			</a>
+		</h3>
+				<div class="elementor-post__excerpt">
+			<p>Assalamaualaykum We pray everyone is well and safe. Masjid Abu Bakr will not be taking</p>
+		</div>
+					<a class="elementor-post__read-more" href="https://masjidabubakr.co.uk/2020/05/23/eid-fitrana-update/">
+				Read More »			</a>
+				</div>
+				<div class="elementor-post__meta-data">
+					<span class="elementor-post-date">
+			23 May 2020		</span>
+				<span class="elementor-post-avatar">
+			No Comments		</span>
+				</div>
+					</div>
+		</article>
+				</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-29f8d38 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="29f8d38" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-1444b27 elementor-column elementor-col-100 elementor-inner-column" data-id="1444b27" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-f9dd938 elementor-widget elementor-widget-heading" data-id="f9dd938" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default"><a href="https://masjidabubakr.co.uk/services/"><b style="color: #D89D32;">Our</b> Services</a></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-faddbde elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="faddbde" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-link"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-1b05d78 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="1b05d78" data-element_type="section">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-e069831 elementor-invisible elementor-column elementor-col-25 elementor-inner-column" data-id="e069831" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-0a2a4be elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="0a2a4be" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://masjidabubakr.co.uk/services/accommodation/">
+				<i aria-hidden="true" class="fas fa-bed"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://masjidabubakr.co.uk/services/accommodation/">Accommodation</a>
+				</div>
+								<p class="elementor-icon-box-description">Please complete our accommodation form and we will try to assist you.</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1d248a9 elementor-align-center elementor-widget elementor-widget-button" data-id="1d248a9" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://masjidabubakr.co.uk/services/accommodation/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Read more</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-2f02023 elementor-invisible elementor-column elementor-col-25 elementor-inner-column" data-id="2f02023" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-a548f69 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="a548f69" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://masjidabubakr.co.uk/services/collection-requests/">
+				<i aria-hidden="true" class="fas fa-hand-holding-usd"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://masjidabubakr.co.uk/services/collection-requests/">COLLECTION REQUESTS</a>
+				</div>
+								<p class="elementor-icon-box-description">To raise funds for your organisation or project, please print and complete our form</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-6b8b140 elementor-align-center elementor-widget elementor-widget-button" data-id="6b8b140" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://masjidabubakr.co.uk/services/collection-requests/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Read more</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-6b217c1 elementor-invisible elementor-column elementor-col-25 elementor-inner-column" data-id="6b217c1" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2c48a00 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="2c48a00" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://masjidabubakr.co.uk/services/matrimony/">
+				<i aria-hidden="true" class="far fa-handshake"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://masjidabubakr.co.uk/services/matrimony/">Matrimony</a>
+				</div>
+								<p class="elementor-icon-box-description">Join our growing database to receive alerts on potential matches.</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-5f8fd72 elementor-align-center elementor-widget elementor-widget-button" data-id="5f8fd72" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://masjidabubakr.co.uk/services/matrimony/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Read more</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-0a7f47a elementor-invisible elementor-column elementor-col-25 elementor-inner-column" data-id="0a7f47a" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-bcafb33 elementor-view-default elementor-position-top elementor-vertical-align-top elementor-widget elementor-widget-icon-box" data-id="bcafb33" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-icon">
+				<a class="elementor-icon elementor-animation-" href="https://masjidabubakr.co.uk/services/nikah-ceremony/">
+				<i aria-hidden="true" class="fas fa-hand-holding-heart"></i>				</a>
+			</div>
+						<div class="elementor-icon-box-content">
+				<div class="elementor-icon-box-title">
+					<a href="https://masjidabubakr.co.uk/services/nikah-ceremony/"> Nikah Ceremony</a>
+				</div>
+								<p class="elementor-icon-box-description">We are pleased that you have considered our masjid to perform the Nikah. Please print and complete the application form below.
+</p>
+							</div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-1915044 elementor-align-center elementor-widget elementor-widget-button" data-id="1915044" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://masjidabubakr.co.uk/services/nikah-ceremony/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Read more</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-7e713c7 elementor-section-full_width elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="7e713c7" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-3f418ba elementor-column elementor-col-100 elementor-top-column" data-id="3f418ba" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-35af06e elementor-section-full_width elementor-section-content-middle elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="35af06e" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-8b4c670 elementor-invisible elementor-column elementor-col-50 elementor-inner-column" data-id="8b4c670" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-88d721d elementor-widget elementor-widget-image" data-id="88d721d" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="580" height="821" src="./Masjid Abu Bakr_files/FiqhOfFasting18042020-723x1024.jpg" class="attachment-large size-large" alt="" srcset="https://masjidabubakr.co.uk/wp-content/uploads/2020/04/FiqhOfFasting18042020-723x1024.jpg 723w, https://masjidabubakr.co.uk/wp-content/uploads/2020/04/FiqhOfFasting18042020-212x300.jpg 212w, https://masjidabubakr.co.uk/wp-content/uploads/2020/04/FiqhOfFasting18042020-768x1087.jpg 768w, https://masjidabubakr.co.uk/wp-content/uploads/2020/04/FiqhOfFasting18042020.jpg 904w" sizes="(max-width: 580px) 100vw, 580px">											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-fff5e28 elementor-invisible elementor-column elementor-col-50 elementor-inner-column" data-id="fff5e28" data-element_type="column" data-settings="{&quot;background_background&quot;:&quot;classic&quot;,&quot;animation&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+							<div class="elementor-background-overlay"></div>
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-33bc5d5 elementor-widget elementor-widget-heading" data-id="33bc5d5" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Upcoming <span style="color:#fff;">Event</span></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-4d10cc9 elementor-widget-divider--view-line_icon elementor-view-default elementor-widget-divider--element-align-center elementor-widget elementor-widget-divider" data-id="4d10cc9" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+							<div class="elementor-icon elementor-divider__element">
+					<i aria-hidden="true" class="fas fa-link"></i></div>
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-d053515 elementor-widget elementor-widget-text-editor" data-id="d053515" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p>Ramadan Prep “Fiqh Of Fasting”</p></div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-93fd775 elementor-countdown--label-block elementor-widget elementor-widget-countdown" data-id="93fd775" data-element_type="widget" data-widget_type="countdown.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-countdown-wrapper" data-date="1587213600">
+			<div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-days">00</span> <span class="elementor-countdown-label">Days</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-hours">00</span> <span class="elementor-countdown-label">Hours</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-minutes">00</span> <span class="elementor-countdown-label">Minutes</span></div><div class="elementor-countdown-item"><span class="elementor-countdown-digits elementor-countdown-seconds">00</span> <span class="elementor-countdown-label">Seconds</span></div>		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-27349a7 elementor-align-center elementor-widget elementor-widget-button" data-id="27349a7" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://masjidabubakr.co.uk/events-2/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">All Events</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-8080082 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="8080082" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+							<div class="elementor-background-overlay"></div>
+							<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-aeac37f elementor-invisible elementor-column elementor-col-50 elementor-top-column" data-id="aeac37f" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInLeft&quot;}">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-10134b8 elementor-widget elementor-widget-heading" data-id="10134b8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">Support us,<br>
+<span style="color:#111111;">we need your help.
+</span></h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-ae1b56d elementor-testimonial--align-left elementor-testimonial--skin-default elementor-testimonial--layout-image_inline elementor-arrows-yes elementor-pagination-type-bullets elementor-widget elementor-widget-testimonial-carousel" data-id="ae1b56d" data-element_type="widget" data-settings="{&quot;show_arrows&quot;:&quot;yes&quot;,&quot;pagination&quot;:&quot;bullets&quot;,&quot;speed&quot;:500,&quot;autoplay&quot;:&quot;yes&quot;,&quot;autoplay_speed&quot;:5000,&quot;loop&quot;:&quot;yes&quot;,&quot;pause_on_hover&quot;:&quot;yes&quot;,&quot;pause_on_interaction&quot;:&quot;yes&quot;,&quot;space_between&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_tablet&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]},&quot;space_between_mobile&quot;:{&quot;unit&quot;:&quot;px&quot;,&quot;size&quot;:10,&quot;sizes&quot;:[]}}" data-widget_type="testimonial-carousel.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-swiper">
+			<div class="elementor-main-swiper swiper-container swiper-container-initialized swiper-container-horizontal" style="cursor: grab;">
+				<div class="swiper-wrapper" style="transition-duration: 500ms; transform: translate3d(-1444px, 0px, 0px);"><div class="swiper-slide swiper-slide-duplicate swiper-slide-duplicate-active" data-swiper-slide-index="1" style="width: 712px; margin-right: 10px;">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						
+وروى ابن ماجه عَنْ جَابِرِ بْنِ عَبْدِ اللَّه رَضِيَ اللَّهُ عَنْهُما أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : (مَنْ بَنَى مَسْجِدًا لِلَّهِ كَمَفْحَصِ قَطَاةٍ ، أوْ أَصْغَرَ ، بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ)					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">ابن ماجة</span></cite>			</div>
+		</div>
+								</div>
+											<div class="swiper-slide swiper-slide-prev swiper-slide-duplicate-next" data-swiper-slide-index="0" style="width: 712px; margin-right: 10px;">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Ibn Maajah narrated from Jaabir ibn ‘Abdullah (may Allah be pleased with him) that the
+Messenger of Allah (blessings and peace of Allah be upon him) said: “Whoever builds a
+mosque for the sake of Allah, like a sparrow’s nest or even smaller, Allaah will build for him a
+house in Paradise.”					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ibn Maajah</span></cite>			</div>
+		</div>
+								</div>
+											<div class="swiper-slide swiper-slide-active" data-swiper-slide-index="1" style="width: 712px; margin-right: 10px;">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						
+وروى ابن ماجه عَنْ جَابِرِ بْنِ عَبْدِ اللَّه رَضِيَ اللَّهُ عَنْهُما أَنَّ رَسُولَ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ قَالَ : (مَنْ بَنَى مَسْجِدًا لِلَّهِ كَمَفْحَصِ قَطَاةٍ ، أوْ أَصْغَرَ ، بَنَى اللَّهُ لَهُ بَيْتًا فِي الْجَنَّةِ)					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">ابن ماجة</span></cite>			</div>
+		</div>
+								</div>
+									<div class="swiper-slide swiper-slide-duplicate swiper-slide-next swiper-slide-duplicate-prev" data-swiper-slide-index="0" style="width: 712px; margin-right: 10px;">
+									<div class="elementor-testimonial">
+							<div class="elementor-testimonial__content">
+					<div class="elementor-testimonial__text">
+						Ibn Maajah narrated from Jaabir ibn ‘Abdullah (may Allah be pleased with him) that the
+Messenger of Allah (blessings and peace of Allah be upon him) said: “Whoever builds a
+mosque for the sake of Allah, like a sparrow’s nest or even smaller, Allaah will build for him a
+house in Paradise.”					</div>
+									</div>
+						<div class="elementor-testimonial__footer">
+								<cite class="elementor-testimonial__cite"><span class="elementor-testimonial__name">Ibn Maajah</span></cite>			</div>
+		</div>
+								</div></div>
+															<div class="swiper-pagination swiper-pagination-clickable swiper-pagination-bullets"><span class="swiper-pagination-bullet" tabindex="0" role="button" aria-label="Go to slide 1"></span><span class="swiper-pagination-bullet swiper-pagination-bullet-active" tabindex="0" role="button" aria-label="Go to slide 2"></span></div>
+																<div class="elementor-swiper-button elementor-swiper-button-prev" tabindex="0" role="button" aria-label="Previous slide">
+							<i class="eicon-chevron-left" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Previous</span>
+						</div>
+						<div class="elementor-swiper-button elementor-swiper-button-next" tabindex="0" role="button" aria-label="Next slide">
+							<i class="eicon-chevron-right" aria-hidden="true"></i>
+							<span class="elementor-screen-only">Next</span>
+						</div>
+												<span class="swiper-notification" aria-live="assertive" aria-atomic="true"></span></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-acca34f elementor-widget elementor-widget-button" data-id="acca34f" data-element_type="widget" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a href="https://masjidabubakr.co.uk/donate/" class="elementor-button-link elementor-button elementor-size-sm" role="button">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">Donate Now</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-f5a6547 elementor-invisible elementor-column elementor-col-50 elementor-top-column" data-id="f5a6547" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInRight&quot;}">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-450e16b elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="450e16b" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-fe7135c elementor-column elementor-col-100 elementor-top-column" data-id="fe7135c" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-b1ac9f3 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="b1ac9f3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-4042ca6 elementor-column elementor-col-100 elementor-top-column" data-id="4042ca6" data-element_type="column">
+			<div class="elementor-column-wrap">
+					<div class="elementor-widget-wrap">
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+		
+</main><!-- #site-content -->
+
+
+		<div data-elementor-type="footer" data-elementor-id="218" class="elementor elementor-218 elementor-location-footer" data-elementor-settings="[]">
+		<div class="elementor-inner">
+			<div class="elementor-section-wrap">
+						<footer class="elementor-element elementor-element-2e7257ca elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-id="2e7257ca" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-490eb213 elementor-column elementor-col-100 elementor-top-column" data-id="490eb213" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<section class="elementor-element elementor-element-48efb309 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="48efb309" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-35965f73 elementor-column elementor-col-20 elementor-inner-column" data-id="35965f73" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-345670fe elementor-widget elementor-widget-heading" data-id="345670fe" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Get Started</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-67dc8969 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="67dc8969" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="https://masjidabubakr.co.uk/">					<span class="elementor-icon-list-text">Home</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://masjidabubakr.co.uk/donate/">					<span class="elementor-icon-list-text">Donate</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://masjidabubakr.co.uk/about/">					<span class="elementor-icon-list-text">Sponsor</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://www.youtube.com/user/masjidabubakr1">					<span class="elementor-icon-list-text">Media</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-5c9fd8b5 elementor-column elementor-col-20 elementor-inner-column" data-id="5c9fd8b5" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-2bfd7b27 elementor-widget elementor-widget-heading" data-id="2bfd7b27" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">About</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-e873267 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="e873267" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="https://masjidabubakr.co.uk/about/">					<span class="elementor-icon-list-text">About Us</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://masjidabubakr.co.uk/classes/">					<span class="elementor-icon-list-text">Classes</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://masjidabubakr.co.uk/news/">					<span class="elementor-icon-list-text">News</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://masjidabubakr.co.uk/madrasah/">					<span class="elementor-icon-list-text">Madrasah</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-58600619 elementor-column elementor-col-20 elementor-inner-column" data-id="58600619" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1b297df8 elementor-widget elementor-widget-heading" data-id="1b297df8" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Contact Info</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-6f176dd0 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="6f176dd0" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="tel:020 3659 6553" target="_blank">					<span class="elementor-icon-list-text">020 3659 6553</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="mailto:info@masjidabubakr.co.uk" target="_blank">					<span class="elementor-icon-list-text">info@masjidabubakr.co.uk</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">26a Mansfield Road</span>
+									</li>
+								<li class="elementor-icon-list-item">
+										<span class="elementor-icon-list-text">Walthamstow, London E17 6PJ</span>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-541d865e elementor-column elementor-col-20 elementor-inner-column" data-id="541d865e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-19c9f52c elementor-widget elementor-widget-heading" data-id="19c9f52c" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Follow Us</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-16e70b01 elementor-align-left elementor-icon-list--layout-traditional elementor-widget elementor-widget-icon-list" data-id="16e70b01" data-element_type="widget" data-widget_type="icon-list.default">
+				<div class="elementor-widget-container">
+					<ul class="elementor-icon-list-items">
+							<li class="elementor-icon-list-item">
+					<a href="https://www.facebook.com/MasjidAbuBakr1" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-facebook"></i>						</span>
+										<span class="elementor-icon-list-text">Facebook</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://twitter.com/masjidabubakr" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-twitter"></i>						</span>
+										<span class="elementor-icon-list-text">Twitter</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="https://www.youtube.com/user/masjidabubakr1" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-youtube"></i>						</span>
+										<span class="elementor-icon-list-text">YouTube</span>
+											</a>
+									</li>
+								<li class="elementor-icon-list-item">
+					<a href="http://t.me/masjidabubakr" target="_blank">						<span class="elementor-icon-list-icon">
+							<i aria-hidden="true" class="fab fa-telegram-plane"></i>						</span>
+										<span class="elementor-icon-list-text">Telegram</span>
+											</a>
+									</li>
+						</ul>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<footer class="elementor-element elementor-element-5c499c58 elementor-column elementor-col-20 elementor-inner-column" data-id="5c499c58" data-element_type="column" id="subscribe12">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-fbd076b elementor-widget elementor-widget-heading" data-id="fbd076b" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h4 class="elementor-heading-title elementor-size-default">Subscribe To Our Email List</h4>		</div>
+				</div>
+				<div class="elementor-element elementor-element-1906fac Subscribe-112412 elementor-widget elementor-widget-shortcode" data-id="1906fac" data-element_type="widget" data-widget_type="shortcode.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-shortcode">
+	<section id="yikes-mailchimp-container-1" class="yikes-mailchimp-container yikes-mailchimp-container-1 ">
+				<form id="new-signup-form-1" class="yikes-easy-mc-form yikes-easy-mc-form-1  " method="POST" data-attr-form-id="1">
+
+													<label for="yikes-easy-mc-form-1-EMAIL" class="EMAIL-label yikes-mailchimp-field-required ">
+
+										<!-- dictate label visibility -->
+										
+										<!-- Description Above -->
+										
+										<input id="yikes-easy-mc-form-1-EMAIL" name="EMAIL" placeholder="EMAIL" class="yikes-easy-mc-email field-no-label" required="required" type="email" value="">
+
+										<!-- Description Below -->
+										
+									</label>
+									
+				<!-- Honeypot Trap -->
+				<input type="hidden" name="yikes-mailchimp-honeypot" id="yikes-mailchimp-honeypot-1" value="">
+
+				<!-- List ID -->
+				<input type="hidden" name="yikes-mailchimp-associated-list-id" id="yikes-mailchimp-associated-list-id-1" value="e33ac1d75b">
+
+				<!-- The form that is being submitted! Used to display error/success messages above the correct form -->
+				<input type="hidden" name="yikes-mailchimp-submitted-form" id="yikes-mailchimp-submitted-form-1" value="1">
+
+				<!-- Submit Button -->
+				<button type="submit" class="yikes-easy-mc-submit-button yikes-easy-mc-submit-button-1 btn btn-primary "> <span class="yikes-mailchimp-submit-button-span-text">SUBSCRIBE</span></button>				<!-- Nonce Security Check -->
+				<input type="hidden" id="yikes_easy_mc_new_subscriber_1" name="yikes_easy_mc_new_subscriber" value="757d174acb">
+				<input type="hidden" name="_wp_http_referer" value="/">				
+			</form>
+			<!-- Mailchimp Form generated by Easy Forms for Mailchimp v6.6.4 (https://wordpress.org/plugins/yikes-inc-easy-mailchimp-extender/) -->
+
+			</section>
+	</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</footer>
+						</div>
+			</div>
+		</section>
+				<section class="elementor-element elementor-element-4ee10d35 elementor-section-content-middle elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-inner-section" data-id="4ee10d35" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div class="elementor-element elementor-element-6e96c79e elementor-column elementor-col-50 elementor-inner-column" data-id="6e96c79e" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1de009c elementor-widget elementor-widget-image" data-id="1de009c" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-image">
+										<img width="737" height="132" src="./Masjid Abu Bakr_files/12logo45-1.png" class="attachment-full size-full" alt="" srcset="https://masjidabubakr.co.uk/wp-content/uploads/2020/04/12logo45-1.png 737w, https://masjidabubakr.co.uk/wp-content/uploads/2020/04/12logo45-1-300x54.png 300w" sizes="(max-width: 737px) 100vw, 737px">											</div>
+				</div>
+				</div>
+						</div>
+			</div>
+		</div>
+				<div class="elementor-element elementor-element-532ed54d elementor-column elementor-col-50 elementor-inner-column" data-id="532ed54d" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div class="elementor-element elementor-element-1b42d1ff elementor-widget elementor-widget-heading" data-id="1b42d1ff" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<p class="elementor-heading-title elementor-size-default">Copyright 2020 masjidabubakr.co.uk.  All rights Reserved.</p>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</section>
+						</div>
+			</div>
+		</div>
+						</div>
+			</div>
+		</footer>
+					</div>
+		</div>
+		</div>
+		
+<link rel="stylesheet" id="yikes-inc-easy-mailchimp-public-styles-css" href="./Masjid Abu Bakr_files/yikes-inc-easy-mailchimp-extender-public.min.css" media="all">
+<script>
+var timetable_params = {"ajaxurl":"https:\/\/masjidabubakr.co.uk\/wp-admin\/admin-ajax.php"};
+</script>
+<script src="./Masjid Abu Bakr_files/dpt.js.download"></script>
+<script src="./Masjid Abu Bakr_files/wp-embed.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/jquery.smartmenus.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/imagesloaded.min.js.download"></script>
+<script>
+var yikes_mailchimp_ajax = {"ajax_url":"https:\/\/masjidabubakr.co.uk\/wp-admin\/admin-ajax.php","page_data":"39","interest_group_checkbox_error":"This field is required.","preloader_url":"https:\/\/masjidabubakr.co.uk\/wp-content\/plugins\/yikes-inc-easy-mailchimp-extender\/includes\/images\/ripple.svg","loading_dots":"https:\/\/masjidabubakr.co.uk\/wp-content\/plugins\/yikes-inc-easy-mailchimp-extender\/includes\/images\/bars.svg","ajax_security_nonce":"bea484b2fb","feedback_message_placement":"before"};
+</script>
+<script src="./Masjid Abu Bakr_files/yikes-mc-ajax-forms.min.js.download"></script>
+<script>
+var form_submission_helpers = {"ajax_url":"https:\/\/masjidabubakr.co.uk\/wp-admin\/admin-ajax.php","preloader_url":"https:\/\/masjidabubakr.co.uk\/wp-admin\/images\/wpspin_light.gif","countries_with_zip":{"US":"US","GB":"GB","CA":"CA","IE":"IE","CN":"CN","IN":"IN","AU":"AU","BR":"BR","MX":"MX","IT":"IT","NZ":"NZ","JP":"JP","FR":"FR","GR":"GR","DE":"DE","NL":"NL","PT":"PT","ES":"ES"},"page_data":"39"};
+</script>
+<script src="./Masjid Abu Bakr_files/form-submission-helpers.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/frontend-modules.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/jquery.sticky.min.js.download"></script>
+<script>
+var ElementorProFrontendConfig = {"ajaxurl":"https:\/\/masjidabubakr.co.uk\/wp-admin\/admin-ajax.php","nonce":"8ee9b03240","i18n":{"toc_no_headings_found":"No headings were found on this page."},"shareButtonsNetworks":{"facebook":{"title":"Facebook","has_counter":true},"twitter":{"title":"Twitter"},"google":{"title":"Google+","has_counter":true},"linkedin":{"title":"LinkedIn","has_counter":true},"pinterest":{"title":"Pinterest","has_counter":true},"reddit":{"title":"Reddit","has_counter":true},"vk":{"title":"VK","has_counter":true},"odnoklassniki":{"title":"OK","has_counter":true},"tumblr":{"title":"Tumblr"},"delicious":{"title":"Delicious"},"digg":{"title":"Digg"},"skype":{"title":"Skype"},"stumbleupon":{"title":"StumbleUpon","has_counter":true},"mix":{"title":"Mix"},"telegram":{"title":"Telegram"},"pocket":{"title":"Pocket","has_counter":true},"xing":{"title":"XING","has_counter":true},"whatsapp":{"title":"WhatsApp"},"email":{"title":"Email"},"print":{"title":"Print"}},"facebook_sdk":{"lang":"en_GB","app_id":""}};
+</script>
+<script src="./Masjid Abu Bakr_files/frontend.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/dialog.min.js(1).download"></script>
+<script src="./Masjid Abu Bakr_files/waypoints.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/swiper.min.js.download"></script>
+<script src="./Masjid Abu Bakr_files/share-link.min.js.download"></script>
+<script>
+var elementorFrontendConfig = {"environmentMode":{"edit":false,"wpPreview":false},"i18n":{"shareOnFacebook":"Share on Facebook","shareOnTwitter":"Share on Twitter","pinIt":"Pin it","downloadImage":"Download image"},"is_rtl":false,"breakpoints":{"xs":0,"sm":480,"md":768,"lg":1025,"xl":1440,"xxl":1600},"version":"2.9.7","urls":{"assets":"https:\/\/masjidabubakr.co.uk\/wp-content\/plugins\/elementor\/assets\/"},"settings":{"page":[],"general":{"elementor_global_image_lightbox":"yes","elementor_lightbox_enable_counter":"yes","elementor_lightbox_enable_fullscreen":"yes","elementor_lightbox_enable_zoom":"yes","elementor_lightbox_enable_share":"yes","elementor_lightbox_title_src":"title","elementor_lightbox_description_src":"description"},"editorPreferences":[]},"post":{"id":39,"title":"Masjid%20Abu%20Bakr","excerpt":"","featuredImage":false}};
+</script>
+<script src="./Masjid Abu Bakr_files/frontend.min.js(1).download"></script><span id="elementor-device-mode" class="elementor-screen-only"></span>
+	<script>
+	/(trident|msie)/i.test(navigator.userAgent)&&document.getElementById&&window.addEventListener&&window.addEventListener("hashchange",function(){var t,e=location.hash.substring(1);/^[A-z0-9_-]+$/.test(e)&&(t=document.getElementById(e))&&(/^(?:a|select|input|button|textarea)$/i.test(t.tagName)||(t.tabIndex=-1),t.focus())},!1);
+	</script>
+	
+
+
+<div id="a11y-speak-polite" class="a11y-speak-region" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" aria-live="polite" aria-relevant="additions text" aria-atomic="true"></div><div id="a11y-speak-assertive" class="a11y-speak-region" style="position: absolute;margin: -1px;padding: 0;height: 1px;width: 1px;overflow: hidden;clip: rect(1px, 1px, 1px, 1px);-webkit-clip-path: inset(50%);clip-path: inset(50%);border: 0;word-wrap: normal !important;" aria-live="assertive" aria-relevant="additions text" aria-atomic="true"></div><iframe frameborder="0" allowtransparency="true" scrolling="no" name="__privateStripeMetricsController0" allowpaymentrequest="true" src="./Masjid Abu Bakr_files/m-outer-a0f6c1465b8d9aab778cf2913d1d3c86.html" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1212px; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important; user-select: none !important;" data-origwidth="" data-origheight=""></iframe><iframe frameborder="0" allowtransparency="true" scrolling="no" name="__privateStripeController1" allowpaymentrequest="true" src="./Masjid Abu Bakr_files/controller-8eaa7493dcc5b9b4300acef47ba09867.html" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1212px; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important; user-select: none !important;" data-origwidth="" data-origheight=""></iframe><iframe frameborder="0" allowtransparency="true" scrolling="no" name="__privateStripeController3" allowpaymentrequest="true" src="./Masjid Abu Bakr_files/controller-8eaa7493dcc5b9b4300acef47ba09867(1).html" aria-hidden="true" tabindex="-1" style="border: none !important; margin: 0px !important; padding: 0px !important; width: 1212px; min-width: 100% !important; overflow: hidden !important; display: block !important; visibility: hidden !important; position: fixed !important; height: 1px !important; pointer-events: none !important; user-select: none !important;" data-origwidth="" data-origheight=""></iframe></body></html>

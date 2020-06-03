@@ -1,0 +1,313 @@
+@media (min-width: 992px){.navbar {
+    
+    max-height: 75px;
+       }
+}
+.line{
+    background-color:#cc9900 !important;
+    color: floralwhite;
+}
+.nav{
+    margin-top: 5px;
+    z-index: 1;
+}
+.nav-link:hover{
+    color: #cc9900 !important;
+}
+.b1{
+    background-color: #cc9900 ;
+}
+.b1:hover{
+    background-color: white;
+    color: #cc9900 ;
+}
+
+.d1{
+    color:#cc9900 ;
+    text-shadow:  #cc9900 2px 2px 3px;
+}
+.d2{
+    text-shadow:black 2px 2px 3px;
+}
+.r1{
+    background-color: #cc9900 !important;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.r1:hover{
+    background-color: white !important;
+    color: #cc9900 ;
+}
+.jumbotron{
+    background-image: url("bg3.jpg");
+    background-size: cover;
+    margin-bottom: 0px;
+}
+.time{
+    
+    background-image: url("bg.png") ;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.list-group{
+    margin-top: 80px;
+    margin-bottom: 80px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+.lh{
+    color: cornsilk;
+    font-family: serif;
+    font-weight: bold;
+    margin: auto;
+}
+@media (min-width: 992px) {
+    .time, .jumbotron {height: 600px;
+}
+}
+.col1{
+    
+   
+    width: 120px;
+}
+.col2{
+  
+   
+    width: 150px;
+}
+.col3{
+    
+    width: 50px;
+}
+.fajr{
+    color: white;
+    height: 40px;
+    text-align: center;
+    font-family: serif;
+    border: white solid;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.heading{
+    height: 50px;
+    color: #cc9900;
+    background-color: cornsilk;
+    font-family: serif;
+    font-size: 25px;
+    text-align: right;
+    border: white solid;
+    font-weight: bold;
+}
+.list{
+   margin: auto;
+   margin-top: 5px;
+}
+.space{
+    height: 8px ;
+}
+.fajr:hover{
+    color: #cc9900;
+    background-color: white;
+}
+.bgsvig{
+     background-image: url("bg4.jpg");
+     background-size: cover;
+     text-align: center;
+}
+.services{
+  
+    text-align: center;
+    margin-right: 0px;
+}
+
+.s1{
+    padding: 20px ;
+    color:white ;
+    font-weight: bold;
+    font-family: serif;
+}
+.s2,.fa-star,.fa-camera{
+    color: #cc9900;
+}
+.box{
+  
+    color: white;
+    margin-top: 20px ;
+    width: 250px;
+   
+}
+.boxes{
+  justify-content: space-around;
+}
+ .si{
+     color:#cc9900 ;
+     margin-bottom: 20px;
+     
+ }
+ .sb{
+     color: #cc9900;
+     font-family: serif;
+ }
+ .sp{
+     margin-top: 15px;
+ }
+ .sa{
+     color: white;
+     font-weight: bold;
+     
+ }
+ .sa:hover{
+     color: #cc9900 ;
+ }
+ .ig{
+     justify-content: space-around;
+     margin-top: 20px;
+     padding-bottom: 10px;
+ }
+ .image{
+     text-align: center;
+ }
+ .im{
+     width: 200px;
+     height: 120px;
+     margin-top: 10px;
+     box-shadow: black 1px 2px 5px;
+     border: #cc9900 solid;
+     border-radius: 10px;
+ }
+ .im:hover{
+     width: 225px;
+     height: 125px;
+
+ }
+ @media (max-width: 575.98px) { 
+     .im{
+         width: 300px;
+         height: 170px;
+     }
+     .im:hover{
+        width: 325px;
+        height: 195px;
+   
+    }
+  }
+.end{
+    color: white;
+    background-color: #333333;
+}
+.Contact, .Useful{
+    margin-top: 10px;
+}
+.ci{
+    margin-top: 10px;
+}
+.cb{
+    color: #cc9900;
+}
+.fa-facebook-square{
+    color: #3366ff;
+}
+.fa-twitter-square{
+    color: #4d79ff
+}
+.fa-youtube-square{
+    color:  #cc0000;
+}
+.fa-whatsapp{
+    color: springgreen;
+}
+.copy{
+    color: white;
+    background-color: #262626;
+}
+.at{
+    background-image: url("bg4.jpg");
+    text-align: center;
+    margin-bottom: 0px !important;
+   
+}
+.at1{
+     color:white ;
+     font-weight: bold;
+     font-family: serif;
+     padding: 20px;
+
+}
+.at2{
+    color: #cc9900;
+}
+.back{
+    background-image: url("bg3.jpg") ;
+    background-size:  cover;
+   
+}
+.aimg{
+    height: 450px;
+    width: 250px;
+    margin-top: 100px;
+    margin-left: 90px;
+    margin-right: 90px;
+    margin-bottom: 50px;
+    border-radius: 125px;
+    
+} 
+
+@media (max-width: 575.98px) { 
+    .aimg{
+       margin-top: 50px ;
+    }
+}
+.atext{
+      margin-top: 70px;
+      margin-left: 50px;
+      margin-right: 50px;
+      margin-bottom: 50px;
+}
+
+@media (max-width: 575.98px){
+    .atext{
+        margin: 30px;
+    }
+}
+
+.aheading{
+    font-weight: bold;
+    font-family: serif;
+    color: #cc9900;
+    margin-bottom: 25px;
+}
+.aheadingbold{
+    color: black;
+}
+
+.apera{
+    margin-bottom: 25px;
+}
+
+.fa-university{
+    color: #cc9900;
+}
+
+.imagesec{
+    padding-top: 30px;
+    padding-left: 30px;
+    padding-bottom: 30px;
+}
+
+.masjid-image{
+    margin-top: 20px;
+}
+
+
+@media (min-width: 992px){
+    .masjid-image:hover {
+   
+    height: 180px;
+}
+}
+.bank{
+    color: black;
+}
